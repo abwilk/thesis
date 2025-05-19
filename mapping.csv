@@ -1,0 +1,2114 @@
+motif_id,family
+MA0004.1,Basic helix-loop-helix factors (bHLH)
+MA0013.1,C2H2 zinc finger factors
+MA0021.1,Other C4 zinc finger-type factors
+MA0022.1,Rel homology region (RHR) factors
+MA0023.1,Rel homology region (RHR) factors
+MA0026.1,Tryptophan cluster factors
+MA0049.1,C2H2 zinc finger factors
+MA0053.1,Other C4 zinc finger-type factors
+MA0054.1,Tryptophan cluster factors
+MA0064.1,Other C4 zinc finger-type factors
+MA0069.1,Paired box factors
+MA0071.1,Nuclear receptors with C4 zinc fingers
+MA0096.1,Basic leucine zipper factors (bZIP)
+MA0097.1,Basic leucine zipper factors (bZIP)
+MA0101.1,Rel homology region (RHR) factors
+MA0107.1,Rel homology region (RHR) factors
+MA0111.1,Basic helix-loop-helix factors (bHLH)
+MA0116.1,C2H2 zinc finger factors
+MA0123.1,AP2/EREBP
+MA0128.1,Basic leucine zipper factors (bZIP)
+MA0129.1,Basic leucine zipper factors (bZIP)
+MA0130.1,C2H2 zinc finger factors
+MA0149.1,Tryptophan cluster factors
+MA0155.1,C2H2 zinc finger factors
+MA0163.1,C2H2 zinc finger factors
+MA0165.1,Homeo domain factors
+MA0166.1,Homeo domain factors
+MA0167.1,Homeo domain factors
+MA0168.1,Homeo domain factors
+MA0169.1,Homeo domain factors
+MA0170.1,Homeo domain factors
+MA0171.1,Homeo domain factors
+MA0172.1,Homeo domain factors
+MA0173.1,Homeo domain factors
+MA0174.1,Homeo domain factors
+MA0175.1,Homeo domain factors
+MA0176.1,Homeo domain factors
+MA0177.1,Homeo domain factors
+MA0178.1,Homeo domain factors
+MA0179.1,Homeo domain factors
+MA0180.1,Homeo domain factors
+MA0181.1,Homeo domain factors
+MA0182.1,Homeo domain factors
+MA0183.1,Homeo domain factors
+MA0186.1,Homeo domain factors
+MA0187.1,Homeo domain factors
+MA0188.1,Homeo domain factors
+MA0190.1,Homeo domain factors
+MA0191.1,Homeo domain factors
+MA0192.1,Homeo domain factors
+MA0193.1,Homeo domain factors
+MA0194.1,Homeo domain factors
+MA0196.1,Homeo domain factors
+MA0198.1,Homeo domain factors
+MA0199.1,Homeo domain factors
+MA0201.1,Homeo domain factors
+MA0202.1,Homeo domain factors
+MA0203.1,Homeo domain factors
+MA0204.1,Homeo domain factors
+MA0206.1,Homeo domain factors
+MA0207.1,Homeo domain factors
+MA0208.1,Homeo domain factors
+MA0209.1,Homeo domain factors
+MA0210.1,Homeo domain factors
+MA0211.1,Homeo domain factors
+MA0212.1,Homeo domain factors
+MA0214.1,Homeo domain factors
+MA0215.1,Homeo domain factors
+MA0217.1,Homeo domain factors
+MA0218.1,Homeo domain factors
+MA0219.1,Homeo domain factors
+MA0220.1,Homeo domain factors
+MA0221.1,Homeo domain factors
+MA0224.1,Homeo domain factors
+MA0225.1,Homeo domain factors
+MA0226.1,Homeo domain factors
+MA0227.1,Homeo domain factors
+MA0228.1,Homeo domain factors
+MA0229.1,Homeo domain factors
+MA0230.1,Homeo domain factors
+MA0231.1,Homeo domain factors
+MA0232.1,Homeo domain factors
+MA0233.1,Homeo domain factors
+MA0234.1,Homeo domain factors
+MA0235.1,Homeo domain factors
+MA0236.1,Homeo domain factors
+MA0238.1,Homeo domain factors
+MA0240.1,Homeo domain factors
+MA0241.1,Homeo domain factors
+MA0244.1,Basic leucine zipper factors (bZIP)
+MA0245.1,Homeo domain factors
+MA0246.1,Homeo domain factors
+MA0248.1,Homeo domain factors
+MA0250.1,Homeo domain factors
+MA0251.1,Homeo domain factors
+MA0253.1,Homeo domain factors
+MA0254.1,Homeo domain factors
+MA0256.1,Homeo domain factors
+MA0260.1,C2H2 zinc finger factors
+MA0271.1,MADS box factors
+MA0274.1,Basic leucine zipper factors (bZIP)
+MA0275.1,C6 zinc cluster factors
+MA0276.1,Other C4 zinc finger-type factors
+MA0277.1,C2H2 zinc finger factors
+MA0283.1,C6 zinc cluster factors
+MA0288.1,Homeo domain factors
+MA0289.1,Other C4 zinc finger-type factors
+MA0290.1,C6 zinc cluster factors
+MA0297.1,Fork head/winged helix factors
+MA0299.1,C6 zinc cluster factors
+MA0307.1,Other C4 zinc finger-type factors
+MA0311.1,C6 zinc cluster factors
+MA0318.1,Homeo domain factors
+MA0321.1,Basic helix-loop-helix factors (bHLH)
+MA0322.1,Basic helix-loop-helix factors (bHLH)
+MA0323.1,High-mobility group (HMG) domain factors
+MA0324.1,C6 zinc cluster factors
+MA0327.1,Homeo domain factors
+MA0331.1,MADS box factors
+MA0332.1,Basic leucine zipper factors (bZIP)
+MA0340.1,C2H2 zinc finger factors
+MA0341.1,C2H2 zinc finger factors
+MA0342.1,C2H2 zinc finger factors
+MA0344.1,High-mobility group (HMG) domain factors
+MA0353.1,C6 zinc cluster factors
+MA0356.1,Homeo domain factors
+MA0357.1,Basic helix-loop-helix factors (bHLH)
+MA0364.1,C2H2 zinc finger factors
+MA0366.1,C2H2 zinc finger factors
+MA0368.1,C2H2 zinc finger factors
+MA0370.1,C2H2 zinc finger factors
+MA0371.1,High-mobility group (HMG) domain factors
+MA0373.1,C2H2 zinc finger factors
+MA0391.1,C6 zinc cluster factors
+MA0392.1,C6 zinc cluster factors
+MA0394.1,C2H2 zinc finger factors
+MA0399.1,C6 zinc cluster factors
+MA0404.1,C6 zinc cluster factors
+MA0405.1,C6 zinc cluster factors
+MA0407.1,C6 zinc cluster factors
+MA0409.1,Basic helix-loop-helix factors (bHLH)
+MA0417.1,Basic leucine zipper factors (bZIP)
+MA0419.1,Basic leucine zipper factors (bZIP)
+MA0421.1,Tryptophan cluster factors
+MA0426.1,Homeo domain factors
+MA0429.1,C6 zinc cluster factors
+MA0432.1,C6 zinc cluster factors
+MA0437.1,C6 zinc cluster factors
+MA0440.1,C2H2 zinc finger factors
+MA0444.1,Homeo domain factors
+MA0445.1,High-mobility group (HMG) domain factors
+MA0446.1,Fork head/winged helix factors
+MA0447.1,Basic leucine zipper factors (bZIP)
+MA0448.1,Homeo domain factors
+MA0450.1,C2H2 zinc finger factors
+MA0454.1,C2H2 zinc finger factors
+MA0456.1,C2H2 zinc finger factors
+MA0459.1,Nuclear receptors with C4 zinc fingers
+MA0460.1,C2H2 zinc finger factors
+MA0468.1,Homeo domain factors
+MA0515.1,High-mobility group (HMG) domain factors
+MA0258.2,Nuclear receptors with C4 zinc fingers
+MA0216.2,Homeo domain factors
+MA0533.1,C2H2 zinc finger factors
+MA0237.2,High-mobility group (HMG) domain factors
+MA0537.1,C2H2 zinc finger factors
+MA0542.1,Other C4 zinc finger-type factors
+MA0544.1,Tryptophan cluster factors
+MA0546.1,Fork head/winged helix factors
+MA0553.1,AP2/EREBP
+MA0559.1,MADS box factors
+MA0561.1,Basic helix-loop-helix factors (bHLH)
+MA0562.1,Basic helix-loop-helix factors (bHLH)
+MA0566.1,Basic helix-loop-helix factors (bHLH)
+MA0567.1,AP2/EREBP
+MA0574.1,Tryptophan cluster factors
+MA0580.1,Basic helix-loop-helix factors (bHLH)
+MA0595.1,Basic helix-loop-helix factors (bHLH)
+MA0596.1,Basic helix-loop-helix factors (bHLH)
+MA0599.1,C2H2 zinc finger factors
+MA0604.1,Basic leucine zipper factors (bZIP)
+MA0608.1,Basic leucine zipper factors (bZIP)
+MA0613.1,Fork head/winged helix factors
+MA0614.1,Fork head/winged helix factors
+MA0636.1,Basic helix-loop-helix factors (bHLH)
+MA0641.1,Tryptophan cluster factors
+MA0042.2,Fork head/winged helix factors
+MA0033.2,Fork head/winged helix factors
+MA0153.2,Homeo domain factors
+MA0486.2,Heat shock factors
+MA0653.1,Tryptophan cluster factors
+MA0655.1,Basic leucine zipper factors (bZIP)
+MA0660.1,MADS box factors
+MA0663.1,Basic helix-loop-helix factors (bHLH)
+MA0665.1,Basic helix-loop-helix factors (bHLH)
+MA0667.1,Basic helix-loop-helix factors (bHLH)
+MA0669.1,Basic helix-loop-helix factors (bHLH)
+MA0676.1,Nuclear receptors with C4 zinc fingers
+MA0678.1,Basic helix-loop-helix factors (bHLH)
+MA0068.2,Paired box factors
+MA0512.2,Nuclear receptors with C4 zinc fingers
+MA0083.3,MADS box factors
+MA0009.2,T-Box factors
+MA0689.1,T-Box factors
+MA0691.1,Basic helix-loop-helix factors (bHLH)
+MA0696.1,C2H2 zinc finger factors
+MA0713.1,Homeo domain factors
+MA0715.1,Homeo domain factors
+MA0724.1,Homeo domain factors
+MA0728.1,Nuclear receptors with C4 zinc fingers
+MA0729.1,Nuclear receptors with C4 zinc fingers
+MA0730.1,Nuclear receptors with C4 zinc fingers
+MA0731.1,C2H2 zinc finger factors
+MA0472.2,C2H2 zinc finger factors
+MA0736.1,C2H2 zinc finger factors
+MA0737.1,C2H2 zinc finger factors
+MA0741.1,C2H2 zinc finger factors
+MA0088.2,C2H2 zinc finger factors
+MA0758.1,Fork head/winged helix factors
+MA0770.1,Heat shock factors
+MA0771.1,Heat shock factors
+MA0773.1,MADS box factors
+MA0774.1,Homeo domain factors
+MA0776.1,Tryptophan cluster factors
+MA0777.1,Tryptophan cluster factors
+MA0105.4,Rel homology region (RHR) factors
+MA0780.1,Paired box factors
+MA0783.1,Homeo domain factors
+MA0787.1,Homeo domain factors
+MA0788.1,Homeo domain factors
+MA0789.1,Homeo domain factors
+MA0792.1,Homeo domain factors
+MA0794.1,Homeo domain factors
+MA0796.1,Homeo domain factors
+MA0797.1,Homeo domain factors
+MA0801.1,T-Box factors
+MA0803.1,T-Box factors
+MA0805.1,T-Box factors
+MA0806.1,T-Box factors
+MA0807.1,T-Box factors
+MA0816.1,Basic helix-loop-helix factors (bHLH)
+MA0822.1,Basic helix-loop-helix factors (bHLH)
+MA0823.1,Basic helix-loop-helix factors (bHLH)
+MA0826.1,Basic helix-loop-helix factors (bHLH)
+MA0827.1,Basic helix-loop-helix factors (bHLH)
+MA0838.1,Basic leucine zipper factors (bZIP)
+MA0845.1,Fork head/winged helix factors
+MA0032.2,Fork head/winged helix factors
+MA0848.1,Fork head/winged helix factors
+MA0849.1,Fork head/winged helix factors
+MA0850.1,Fork head/winged helix factors
+MA0855.1,Nuclear receptors with C4 zinc fingers
+MA0856.1,Nuclear receptors with C4 zinc fingers
+MA0857.1,Nuclear receptors with C4 zinc fingers
+MA0858.1,Nuclear receptors with C4 zinc fingers
+MA0860.1,Nuclear receptors with C4 zinc fingers
+MA0863.1,C2H2 zinc finger factors
+MA0024.3,Fork head/winged helix factors
+MA0866.1,High-mobility group (HMG) domain factors
+MA0870.1,High-mobility group (HMG) domain factors
+MA0916.1,Tryptophan cluster factors
+MA0917.1,GCM domain factors
+MA0922.1,Basic leucine zipper factors (bZIP)
+MA0924.1,Homeo domain factors
+MA0926.1,Homeo domain factors
+MA0927.1,Homeo domain factors
+MA0328.2,Homeo domain factors
+MA0935.1,GCM domain factors
+MA0936.1,GCM domain factors
+MA0937.1,GCM domain factors
+MA0939.1,GCM domain factors
+MA0940.1,MADS box factors
+MA0946.1,Tryptophan cluster factors
+MA0947.1,Tryptophan cluster factors
+MA0950.1,Homeo domain factors
+MA0951.1,Homeo domain factors
+MA0952.1,Homeo domain factors
+MA0957.1,Basic helix-loop-helix factors (bHLH)
+MA0958.1,Basic helix-loop-helix factors (bHLH)
+MA0959.1,Basic helix-loop-helix factors (bHLH)
+MA0960.1,Basic helix-loop-helix factors (bHLH)
+MA0963.1,Basic helix-loop-helix factors (bHLH)
+MA0967.1,Basic leucine zipper factors (bZIP)
+MA0972.1,Tryptophan cluster factors
+MA0975.1,AP2/EREBP
+MA0977.1,Other C4 zinc finger-type factors
+MA0978.1,AP2/EREBP
+MA0986.1,AP2/EREBP
+MA1007.1,AP2/EREBP
+MA1009.1,B3
+MA1012.1,MADS box factors
+MA1013.1,Other C4 zinc finger-type factors
+MA1014.1,Other C4 zinc finger-type factors
+MA1020.1,Tryptophan cluster factors
+MA1023.1,AP2/EREBP
+MA1028.1,Tryptophan cluster factors
+MA1033.1,Basic leucine zipper factors (bZIP)
+MA1034.1,AP2/EREBP
+MA1035.1,TCP
+MA1036.1,Tryptophan cluster factors
+MA1039.1,Tryptophan cluster factors
+MA1040.1,Tryptophan cluster factors
+MA1041.1,Tryptophan cluster factors
+MA1042.1,Tryptophan cluster factors
+MA1046.1,GCM domain factors
+MA1048.1,AP2/EREBP
+MA1050.1,TCP
+MA1051.1,AP2/EREBP
+MA1053.1,AP2/EREBP
+MA1066.1,TCP
+MA1067.1,TCP
+MA1075.1,GCM domain factors
+MA1080.1,GCM domain factors
+MA1084.1,GCM domain factors
+MA1091.1,GCM domain factors
+MA1095.1,TCP
+MA1096.1,TCP
+MA1097.1,TCP
+MA1098.1,TCP
+MA1124.1,C2H2 zinc finger factors
+MA1155.1,C2H2 zinc finger factors
+MA1169.1,Tryptophan cluster factors
+MA1188.1,Tryptophan cluster factors
+MA1199.1,MADS box factors
+MA1202.1,MADS box factors
+MA1203.1,MADS box factors
+MA1204.1,MADS box factors
+MA1205.1,MADS box factors
+MA1221.1,AP2/EREBP
+MA1222.1,AP2/EREBP
+MA1225.1,AP2/EREBP
+MA1235.1,AP2/EREBP
+MA1242.1,AP2/EREBP
+MA1274.1,Other C4 zinc finger-type factors
+MA1290.1,TCP
+MA1291.1,TCP
+MA1309.1,GCM domain factors
+MA1324.1,Other C4 zinc finger-type factors
+MA1328.1,Homeo domain factors
+MA1335.1,Basic leucine zipper factors (bZIP)
+MA1339.1,Basic leucine zipper factors (bZIP)
+MA1348.1,Basic leucine zipper factors (bZIP)
+MA1350.1,Basic leucine zipper factors (bZIP)
+MA1352.1,Tryptophan cluster factors
+MA1354.1,Tryptophan cluster factors
+MA1356.1,Tryptophan cluster factors
+MA1363.1,Basic helix-loop-helix factors (bHLH)
+MA1373.1,C2H2 zinc finger factors
+MA1378.1,AP2/EREBP
+MA1384.1,Tryptophan cluster factors
+MA1416.1,C2H2 zinc finger factors
+MA1420.1,Tryptophan cluster factors
+MA1421.1,High-mobility group (HMG) domain factors
+MA1434.1,Tryptophan cluster factors
+MA1440.1,Fork head/winged helix factors
+MA1442.1,Homeo domain factors
+MA1445.1,Homeo domain factors
+MA1448.1,Basic leucine zipper factors (bZIP)
+MA1451.1,Nuclear receptors with C4 zinc fingers
+MA1468.1,Basic helix-loop-helix factors (bHLH)
+MA1485.1,Basic helix-loop-helix factors (bHLH)
+MA1489.1,Fork head/winged helix factors
+MA1493.1,Basic helix-loop-helix factors (bHLH)
+MA1509.1,Tryptophan cluster factors
+MA1538.1,Nuclear receptors with C4 zinc fingers
+MA1539.1,Nuclear receptors with C4 zinc fingers
+MA1555.1,Nuclear receptors with C4 zinc fingers
+MA1556.1,Nuclear receptors with C4 zinc fingers
+MA1570.1,Basic helix-loop-helix factors (bHLH)
+MA1571.1,Homeo domain factors
+MA1572.1,Homeo domain factors
+MA1580.1,C2H2 zinc finger factors
+MA1587.1,C2H2 zinc finger factors
+MA1588.1,C2H2 zinc finger factors
+MA1594.1,C2H2 zinc finger factors
+MA1596.1,C2H2 zinc finger factors
+MA1597.1,C2H2 zinc finger factors
+MA0158.2,Homeo domain factors
+MA0912.2,Homeo domain factors
+MA0623.2,Basic helix-loop-helix factors (bHLH)
+MA2055.1,Basic leucine zipper factors (bZIP)
+MA2056.1,Other C4 zinc finger-type factors
+MA2057.1,Basic helix-loop-helix factors (bHLH)
+MA2058.1,Other C4 zinc finger-type factors
+MA2059.1,GCM domain factors
+MA2060.1,Basic helix-loop-helix factors (bHLH)
+MA2061.1,Basic helix-loop-helix factors (bHLH)
+MA2062.1,Other C4 zinc finger-type factors
+MA2063.1,AP2/EREBP
+MA2064.1,Basic helix-loop-helix factors (bHLH)
+MA2065.1,AP2/EREBP
+MA2066.1,Basic leucine zipper factors (bZIP)
+MA2067.1,Basic helix-loop-helix factors (bHLH)
+MA2068.1,TCP
+MA2069.1,Other C4 zinc finger-type factors
+MA2070.1,Other C4 zinc finger-type factors
+MA2071.1,Basic helix-loop-helix factors (bHLH)
+MA2072.1,Basic leucine zipper factors (bZIP)
+MA2073.1,Other C4 zinc finger-type factors
+MA2074.1,AP2/EREBP
+MA2075.1,Basic leucine zipper factors (bZIP)
+MA2076.1,Basic helix-loop-helix factors (bHLH)
+MA2077.1,Basic helix-loop-helix factors (bHLH)
+MA2078.1,AP2/EREBP
+MA2079.1,TCP
+MA2080.1,Basic helix-loop-helix factors (bHLH)
+MA2081.1,Other C4 zinc finger-type factors
+MA2082.1,Homeo domain factors
+MA2083.1,Tryptophan cluster factors
+MA2084.1,Other C4 zinc finger-type factors
+MA2085.1,Other C4 zinc finger-type factors
+MA2086.1,Basic leucine zipper factors (bZIP)
+MA2087.1,Basic leucine zipper factors (bZIP)
+MA2088.1,AP2/EREBP
+MA2089.1,GCM domain factors
+MA2090.1,Tryptophan cluster factors
+MA2091.1,Basic leucine zipper factors (bZIP)
+MA2092.1,Basic leucine zipper factors (bZIP)
+MA2093.1,Homeo domain factors
+MA2094.1,Paired box factors
+MA2095.1,High-mobility group (HMG) domain factors
+MA2096.1,C2H2 zinc finger factors
+MA1715.1,C2H2 zinc finger factors
+MA2097.1,C2H2 zinc finger factors
+MA2098.1,C2H2 zinc finger factors
+MA2099.1,C2H2 zinc finger factors
+MA1718.1,C2H2 zinc finger factors
+MA2100.1,C2H2 zinc finger factors
+MA2101.1,C2H2 zinc finger factors
+MA1732.1,Fork head/winged helix factors
+MA1684.1,Fork head/winged helix factors
+MA1686.1,B3
+MA1687.1,B3
+MA1700.1,C2H2 zinc finger factors
+MA2102.1,C2H2 zinc finger factors
+MA1734.1,GCM domain factors
+MA1738.1,Tryptophan cluster factors
+MA1741.1,GCM domain factors
+MA1746.1,Basic leucine zipper factors (bZIP)
+MA1749.1,Fork head/winged helix factors
+MA1750.1,Fork head/winged helix factors
+MA1760.1,Heat shock factors
+MA1783.1,GCM domain factors
+MA1784.1,GCM domain factors
+MA1788.1,GCM domain factors
+MA1789.1,GCM domain factors
+MA1790.1,GCM domain factors
+MA1791.1,GCM domain factors
+MA1792.1,GCM domain factors
+MA1796.1,AP2/EREBP
+MA1797.1,B3
+MA1800.1,B3
+MA2103.1,Tryptophan cluster factors
+MA2104.1,C2H2 zinc finger factors
+MA2105.1,Basic leucine zipper factors (bZIP)
+MA1818.1,AP2/EREBP
+MA2106.1,Tryptophan cluster factors
+MA2107.1,C2H2 zinc finger factors
+MA2108.1,C2H2 zinc finger factors
+MA1876.1,Homeo domain factors
+MA1890.1,C2H2 zinc finger factors
+MA1893.1,C2H2 zinc finger factors
+MA2110.1,Homeo domain factors
+MA2111.1,Nuclear receptors with C4 zinc fingers
+MA2112.1,Homeo domain factors
+MA2113.1,Paired box factors
+MA2114.1,Paired box factors
+MA2115.1,Paired box factors
+MA2116.1,Homeo domain factors
+MA1972.1,C2H2 zinc finger factors
+MA1980.1,C2H2 zinc finger factors
+MA1985.1,C2H2 zinc finger factors
+MA2117.1,Fork head/winged helix factors
+MA2118.1,Fork head/winged helix factors
+MA2119.1,Homeo domain factors
+MA2120.1,C2H2 zinc finger factors
+MA2121.1,C2H2 zinc finger factors
+MA2122.1,Rel homology region (RHR) factors
+MA2123.1,Basic helix-loop-helix factors (bHLH)
+MA2125.1,C2H2 zinc finger factors
+MA2126.1,C2H2 zinc finger factors
+MA0079.5,C2H2 zinc finger factors
+MA0509.3,Fork head/winged helix factors
+MA0516.3,C2H2 zinc finger factors
+MA0607.2,Basic helix-loop-helix factors (bHLH)
+MA0685.2,C2H2 zinc finger factors
+MA0740.2,C2H2 zinc finger factors
+MA0742.2,C2H2 zinc finger factors
+MA0798.3,Fork head/winged helix factors
+MA0818.2,Basic helix-loop-helix factors (bHLH)
+MA0821.2,Basic helix-loop-helix factors (bHLH)
+MA0831.3,Basic helix-loop-helix factors (bHLH)
+MA0878.3,Homeo domain factors
+MA0884.2,Homeo domain factors
+MA1511.2,C2H2 zinc finger factors
+MA1532.2,Nuclear receptors with C4 zinc fingers
+MA1547.2,Homeo domain factors
+MA1563.2,High-mobility group (HMG) domain factors
+MA1601.2,C2H2 zinc finger factors
+MA1633.2,Basic leucine zipper factors (bZIP)
+MA2127.1,Basic leucine zipper factors (bZIP)
+MA2128.1,Homeo domain factors
+MA2129.1,Homeo domain factors
+MA2131.1,Paired box factors
+MA2132.1,C2H2 zinc finger factors
+MA2133.1,Other C4 zinc finger-type factors
+MA2134.1,Other C4 zinc finger-type factors
+MA2135.1,Basic leucine zipper factors (bZIP)
+MA2136.1,C2H2 zinc finger factors
+MA2137.1,C2H2 zinc finger factors
+MA2138.1,C2H2 zinc finger factors
+MA2139.1,Fork head/winged helix factors
+MA2140.1,Fork head/winged helix factors
+MA2141.1,C2H2 zinc finger factors
+MA2142.1,Nuclear receptors with C4 zinc fingers
+MA2143.1,Nuclear receptors with C4 zinc fingers
+MA2144.1,Nuclear receptors with C4 zinc fingers
+MA2145.1,Nuclear receptors with C4 zinc fingers
+MA2146.1,Nuclear receptors with C4 zinc fingers
+MA2147.1,Homeo domain factors
+MA2148.1,C2H2 zinc finger factors
+MA2149.1,Nuclear receptors with C4 zinc fingers
+MA2150.1,C2H2 zinc finger factors
+MA2151.1,Paired box factors
+MA2152.1,Basic helix-loop-helix factors (bHLH)
+MA2153.1,Nuclear receptors with C4 zinc fingers
+MA2154.1,C2H2 zinc finger factors
+MA2155.1,C2H2 zinc finger factors
+MA2156.1,Basic leucine zipper factors (bZIP)
+MA2157.1,Basic leucine zipper factors (bZIP)
+MA2158.1,Homeo domain factors
+MA2159.1,Homeo domain factors
+MA2160.1,Homeo domain factors
+MA2161.1,Homeo domain factors
+MA2162.1,Homeo domain factors
+MA2163.1,Basic helix-loop-helix factors (bHLH)
+MA2164.1,Other C4 zinc finger-type factors
+MA2165.1,Other C4 zinc finger-type factors
+MA2166.1,Tryptophan cluster factors
+MA2167.1,Fork head/winged helix factors
+MA2168.1,Basic helix-loop-helix factors (bHLH)
+MA2169.1,Heat shock factors
+MA2170.1,Basic helix-loop-helix factors (bHLH)
+MA2171.1,C2H2 zinc finger factors
+MA2172.1,Basic helix-loop-helix factors (bHLH)
+MA2173.1,MADS box factors
+MA2174.1,Homeo domain factors
+MA2175.1,Basic helix-loop-helix factors (bHLH)
+MA2176.1,Basic helix-loop-helix factors (bHLH)
+MA2179.1,Homeo domain factors
+MA2180.1,C2H2 zinc finger factors
+MA2181.1,C2H2 zinc finger factors
+MA2183.1,Nuclear receptors with C4 zinc fingers
+MA2184.1,High-mobility group (HMG) domain factors
+MA2185.1,T-Box factors
+MA2186.1,T-Box factors
+MA2187.1,C2H2 zinc finger factors
+MA2188.1,Homeo domain factors
+MA2189.1,C2H2 zinc finger factors
+MA2190.1,C2H2 zinc finger factors
+MA2191.1,Basic helix-loop-helix factors (bHLH)
+MA2192.1,Basic leucine zipper factors (bZIP)
+MA2193.1,Basic leucine zipper factors (bZIP)
+MA2194.1,Basic leucine zipper factors (bZIP)
+MA2195.1,Basic helix-loop-helix factors (bHLH)
+MA2196.1,Basic helix-loop-helix factors (bHLH)
+MA2197.1,Fork head/winged helix factors
+MA2198.1,C2H2 zinc finger factors
+MA2199.1,C2H2 zinc finger factors
+MA2200.1,MADS box factors
+MA2201.1,C2H2 zinc finger factors
+MA2202.1,T-Box factors
+MA2203.1,C2H2 zinc finger factors
+MA2204.1,C2H2 zinc finger factors
+MA2205.1,C2H2 zinc finger factors
+MA2206.1,Fork head/winged helix factors
+MA2207.1,C2H2 zinc finger factors
+MA2208.1,Basic leucine zipper factors (bZIP)
+MA2209.1,Basic leucine zipper factors (bZIP)
+MA2210.1,Basic leucine zipper factors (bZIP)
+MA2211.1,Fork head/winged helix factors
+MA2212.1,C2H2 zinc finger factors
+MA2213.1,Rel homology region (RHR) factors
+MA2214.1,Basic helix-loop-helix factors (bHLH)
+MA2215.1,Basic helix-loop-helix factors (bHLH)
+MA2216.1,T-Box factors
+MA2217.1,Basic helix-loop-helix factors (bHLH)
+MA2218.1,Nuclear receptors with C4 zinc fingers
+MA2219.1,Basic helix-loop-helix factors (bHLH)
+MA2220.1,Basic helix-loop-helix factors (bHLH)
+MA2221.1,Basic helix-loop-helix factors (bHLH)
+MA2222.1,Basic helix-loop-helix factors (bHLH)
+MA2223.1,Nuclear receptors with C4 zinc fingers
+MA2224.1,Nuclear receptors with C4 zinc fingers
+MA2225.1,C2H2 zinc finger factors
+MA2226.1,Nuclear receptors with C4 zinc fingers
+MA2227.1,C2H2 zinc finger factors
+MA2228.1,Tryptophan cluster factors
+MA2229.1,Tryptophan cluster factors
+MA2230.1,Tryptophan cluster factors
+MA2231.1,Tryptophan cluster factors
+MA2232.1,Fork head/winged helix factors
+MA2233.1,Basic helix-loop-helix factors (bHLH)
+MA2234.1,Basic helix-loop-helix factors (bHLH)
+MA2235.1,Fork head/winged helix factors
+MA2236.1,Fork head/winged helix factors
+MA2237.1,Fork head/winged helix factors
+MA2238.1,Other C4 zinc finger-type factors
+MA2239.1,Paired box factors
+MA2240.1,Basic helix-loop-helix factors (bHLH)
+MA2241.1,Basic helix-loop-helix factors (bHLH)
+MA2242.1,Nuclear receptors with C4 zinc fingers
+MA2243.1,Nuclear receptors with C4 zinc fingers
+MA2244.1,Nuclear receptors with C4 zinc fingers
+MA2245.1,Nuclear receptors with C4 zinc fingers
+MA2246.1,Basic leucine zipper factors (bZIP)
+MA2247.1,C2H2 zinc finger factors
+MA2248.1,Basic leucine zipper factors (bZIP)
+MA2249.1,C2H2 zinc finger factors
+MA2250.1,C2H2 zinc finger factors
+MA2251.1,Nuclear receptors with C4 zinc fingers
+MA2252.1,C2H2 zinc finger factors
+MA2253.1,C2H2 zinc finger factors
+MA2255.1,Basic helix-loop-helix factors (bHLH)
+MA2256.1,T-Box factors
+MA2257.1,Basic helix-loop-helix factors (bHLH)
+MA2258.1,Basic helix-loop-helix factors (bHLH)
+MA2259.1,T-Box factors
+MA2260.1,Homeo domain factors
+MA2261.1,C2H2 zinc finger factors
+MA2262.1,Tryptophan cluster factors
+MA2263.1,Paired box factors
+MA2264.1,Rel homology region (RHR) factors
+MA2266.1,Fork head/winged helix factors
+MA2267.1,C2H2 zinc finger factors
+MA2268.1,Homeo domain factors
+MA2269.1,Basic helix-loop-helix factors (bHLH)
+MA2270.1,C2H2 zinc finger factors
+MA2271.1,C2H2 zinc finger factors
+MA2272.1,Fork head/winged helix factors
+MA2273.1,High-mobility group (HMG) domain factors
+MA2274.1,High-mobility group (HMG) domain factors
+MA2275.1,High-mobility group (HMG) domain factors
+MA2276.1,High-mobility group (HMG) domain factors
+MA2277.1,High-mobility group (HMG) domain factors
+MA2278.1,High-mobility group (HMG) domain factors
+MA2279.1,C2H2 zinc finger factors
+MA2280.1,C2H2 zinc finger factors
+MA2281.1,Basic helix-loop-helix factors (bHLH)
+MA2282.1,Basic helix-loop-helix factors (bHLH)
+MA2283.1,Other C4 zinc finger-type factors
+MA2284.1,Basic helix-loop-helix factors (bHLH)
+MA2285.1,C2H2 zinc finger factors
+MA2286.1,Nuclear receptors with C4 zinc fingers
+MA2288.1,Basic leucine zipper factors (bZIP)
+MA2289.1,Paired box factors
+MA2290.1,Basic helix-loop-helix factors (bHLH)
+MA2291.1,Basic leucine zipper factors (bZIP)
+MA2292.1,C2H2 zinc finger factors
+MA2293.1,Basic leucine zipper factors (bZIP)
+MA2295.1,Basic helix-loop-helix factors (bHLH)
+MA2296.1,Tryptophan cluster factors
+MA2297.1,C2H2 zinc finger factors
+MA2298.1,C2H2 zinc finger factors
+MA2299.1,C2H2 zinc finger factors
+MA2300.1,C2H2 zinc finger factors
+MA2301.1,Basic helix-loop-helix factors (bHLH)
+MA2302.1,Fork head/winged helix factors
+MA2303.1,Basic helix-loop-helix factors (bHLH)
+MA2304.1,Basic helix-loop-helix factors (bHLH)
+MA2305.1,Basic helix-loop-helix factors (bHLH)
+MA2307.1,C2H2 zinc finger factors
+MA2308.1,Basic helix-loop-helix factors (bHLH)
+MA2309.1,Basic leucine zipper factors (bZIP)
+MA2310.1,C2H2 zinc finger factors
+MA2311.1,Nuclear receptors with C4 zinc fingers
+MA2312.1,Other C4 zinc finger-type factors
+MA2313.1,C2H2 zinc finger factors
+MA2314.1,Nuclear receptors with C4 zinc fingers
+MA2316.1,C2H2 zinc finger factors
+MA2317.1,Basic helix-loop-helix factors (bHLH)
+MA2318.1,C2H2 zinc finger factors
+MA2320.1,High-mobility group (HMG) domain factors
+MA2321.1,Basic helix-loop-helix factors (bHLH)
+MA2322.1,C2H2 zinc finger factors
+MA2323.1,Nuclear receptors with C4 zinc fingers
+MA2324.1,C2H2 zinc finger factors
+MA2325.1,Basic helix-loop-helix factors (bHLH)
+MA2326.1,C2H2 zinc finger factors
+MA2327.1,Nuclear receptors with C4 zinc fingers
+MA2328.1,C2H2 zinc finger factors
+MA2329.1,C2H2 zinc finger factors
+MA2330.1,C2H2 zinc finger factors
+MA2331.1,C2H2 zinc finger factors
+MA2332.1,C2H2 zinc finger factors
+MA2333.1,C2H2 zinc finger factors
+MA2334.1,C2H2 zinc finger factors
+MA2335.1,C2H2 zinc finger factors
+MA2336.1,C2H2 zinc finger factors
+MA2337.1,Nuclear receptors with C4 zinc fingers
+MA2338.1,Nuclear receptors with C4 zinc fingers
+MA2339.1,Homeo domain factors
+MA2340.1,C2H2 zinc finger factors
+MA2341.1,C2H2 zinc finger factors
+MA2342.1,Basic helix-loop-helix factors (bHLH)
+MA2343.1,Tryptophan cluster factors
+MA2344.1,Homeo domain factors
+MA2345.1,Tryptophan cluster factors
+MA2346.1,TCP
+MA2347.1,Tryptophan cluster factors
+MA2348.1,C2H2 zinc finger factors
+MA2349.1,Tryptophan cluster factors
+MA2350.1,Basic helix-loop-helix factors (bHLH)
+MA2352.1,Tryptophan cluster factors
+MA2353.1,Tryptophan cluster factors
+MA2354.1,Tryptophan cluster factors
+MA2355.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2356.1,Other C4 zinc finger-type factors
+MA2357.1,Tryptophan cluster factors
+MA2358.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2359.1,Tryptophan cluster factors
+MA2360.1,Tryptophan cluster factors
+MA2361.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2363.1,AP2/EREBP
+MA2364.1,TCP
+MA2365.1,Tryptophan cluster factors
+MA2366.1,GCM domain factors
+MA2367.1,C2H2 zinc finger factors
+MA2368.1,GCM domain factors
+MA2369.1,Homeo domain factors
+MA2370.1,C2H2 zinc finger factors
+MA2371.1,Tryptophan cluster factors
+MA2372.1,C2H2 zinc finger factors
+MA2373.1,C2H2 zinc finger factors
+MA2375.1,Basic helix-loop-helix factors (bHLH)
+MA2376.1,GCM domain factors
+MA2377.1,TCP
+MA2378.1,AP2/EREBP
+MA2379.1,Other C4 zinc finger-type factors
+MA2380.1,Other C4 zinc finger-type factors
+MA2381.1,Other C4 zinc finger-type factors
+MA2382.1,Basic helix-loop-helix factors (bHLH)
+MA2383.1,Other C4 zinc finger-type factors
+MA2384.1,Basic leucine zipper factors (bZIP)
+MA2385.1,Fork head/winged helix factors
+MA2386.1,AP2/EREBP
+MA2387.1,GCM domain factors
+MA2388.1,Other C4 zinc finger-type factors
+MA2389.1,Basic leucine zipper factors (bZIP)
+MA2390.1,Basic leucine zipper factors (bZIP)
+MA2391.1,Homeo domain factors
+MA2392.1,Homeo domain factors
+MA2393.1,Basic helix-loop-helix factors (bHLH)
+MA2394.1,Other C4 zinc finger-type factors
+MA2395.1,AP2/EREBP
+MA2396.1,C2H2 zinc finger factors
+MA2397.1,Basic helix-loop-helix factors (bHLH)
+MA2398.1,Other C4 zinc finger-type factors
+MA2399.1,TCP
+MA2400.1,TCP
+MA2401.1,Basic leucine zipper factors (bZIP)
+MA2402.1,AP2/EREBP
+MA2403.1,Tryptophan cluster factors
+MA2404.1,Tryptophan cluster factors
+MA2405.1,Tryptophan cluster factors
+MA2406.1,Basic helix-loop-helix factors (bHLH)
+MA2407.1,Basic leucine zipper factors (bZIP)
+MA2408.1,TCP
+MA2409.1,Basic leucine zipper factors (bZIP)
+MA2410.1,Basic leucine zipper factors (bZIP)
+MA2411.1,Basic leucine zipper factors (bZIP)
+MA2412.1,Basic leucine zipper factors (bZIP)
+MA2413.1,Basic leucine zipper factors (bZIP)
+MA2414.1,AP2/EREBP
+MA2415.1,AP2/EREBP
+MA2416.1,AP2/EREBP
+MA2417.1,AP2/EREBP
+MA2418.1,Other C4 zinc finger-type factors
+MA2419.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2420.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2421.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2422.1,Basic leucine zipper factors (bZIP)
+MA2423.1,Basic leucine zipper factors (bZIP)
+MA2424.1,Basic leucine zipper factors (bZIP)
+MA2425.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2426.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2427.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2428.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2429.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2430.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2431.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2432.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2433.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2434.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2435.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2436.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2437.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2438.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2439.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2440.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2441.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2442.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2443.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2444.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2445.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2446.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2447.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2448.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2449.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2450.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2451.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2452.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2453.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2454.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2455.1,"C3H(C),C2HC zinc-fingers like factors"
+MA2005.2,GCM domain factors
+MA1376.2,AP2/EREBP
+MA0333.2,C2H2 zinc finger factors
+MA0334.2,C2H2 zinc finger factors
+MA0336.2,Heat shock factors
+MA0337.2,C2H2 zinc finger factors
+MA0338.2,C2H2 zinc finger factors
+MA0339.2,C2H2 zinc finger factors
+MA1433.2,C2H2 zinc finger factors
+MA0929.2,Fork head/winged helix factors
+MA1435.2,C6 zinc cluster factors
+MA0347.3,C2H2 zinc finger factors
+MA1436.2,Basic helix-loop-helix factors (bHLH)
+MA0348.2,C6 zinc cluster factors
+MA0352.3,C6 zinc cluster factors
+MA0354.2,C6 zinc cluster factors
+MA0358.2,C6 zinc cluster factors
+MA0359.3,Tryptophan cluster factors
+MA0360.2,C6 zinc cluster factors
+MA0361.2,C6 zinc cluster factors
+MA0362.2,C6 zinc cluster factors
+MA0363.3,Tryptophan cluster factors
+MA0365.2,Fork head/winged helix factors
+MA0367.2,C6 zinc cluster factors
+MA0369.2,MADS box factors
+MA0372.2,C2H2 zinc finger factors
+MA0374.2,C6 zinc cluster factors
+MA0375.2,C6 zinc cluster factors
+MA1431.2,C2H2 zinc finger factors
+MA0376.2,Basic helix-loop-helix factors (bHLH)
+MA0377.2,Heat shock factors
+MA0378.2,C2H2 zinc finger factors
+MA0380.2,C6 zinc cluster factors
+MA0381.2,Heat shock factors
+MA0382.3,Basic leucine zipper factors (bZIP)
+MA0384.2,Tryptophan cluster factors
+MA0389.2,Other C4 zinc finger-type factors
+MA0395.2,C2H2 zinc finger factors
+MA0396.2,C2H2 zinc finger factors
+MA0397.2,C2H2 zinc finger factors
+MA0400.2,C6 zinc cluster factors
+MA0403.3,Tryptophan cluster factors
+MA0431.2,C2H2 zinc finger factors
+MA0350.2,Tryptophan cluster factors
+MA0265.3,Basic helix-loop-helix factors (bHLH)
+MA0408.2,Homeo domain factors
+MA0410.2,C6 zinc cluster factors
+MA0412.3,C6 zinc cluster factors
+MA0411.2,C6 zinc cluster factors
+MA0422.2,C6 zinc cluster factors
+MA0413.2,C2H2 zinc finger factors
+MA1437.2,Other C4 zinc finger-type factors
+MA0415.2,Basic leucine zipper factors (bZIP)
+MA0416.2,Basic leucine zipper factors (bZIP)
+MA0418.2,Basic leucine zipper factors (bZIP)
+MA0423.2,C2H2 zinc finger factors
+MA0424.2,C6 zinc cluster factors
+MA0425.2,C2H2 zinc finger factors
+MA0428.2,C6 zinc cluster factors
+MA0430.2,C6 zinc cluster factors
+MA0433.2,Homeo domain factors
+MA0434.2,C2H2 zinc finger factors
+MA0435.2,C2H2 zinc finger factors
+MA0436.2,C2H2 zinc finger factors
+MA0438.2,C6 zinc cluster factors
+MA0439.2,C6 zinc cluster factors
+MA0441.2,C2H2 zinc finger factors
+MA0266.2,High-mobility group (HMG) domain factors
+MA0272.2,C6 zinc cluster factors
+MA0273.2,C6 zinc cluster factors
+MA0267.2,C2H2 zinc finger factors
+MA0278.2,Tryptophan cluster factors
+MA0279.3,Basic leucine zipper factors (bZIP)
+MA0280.2,C6 zinc cluster factors
+MA0281.3,Basic helix-loop-helix factors (bHLH)
+MA0282.2,C6 zinc cluster factors
+MA0284.3,Basic leucine zipper factors (bZIP)
+MA1432.2,C2H2 zinc finger factors
+MA0285.2,C2H2 zinc finger factors
+MA0286.2,Basic leucine zipper factors (bZIP)
+MA0351.2,Tryptophan cluster factors
+MA0292.2,C6 zinc cluster factors
+MA0293.2,Other C4 zinc finger-type factors
+MA0294.2,C6 zinc cluster factors
+MA0420.2,C6 zinc cluster factors
+MA0295.2,Fork head/winged helix factors
+MA0296.2,Fork head/winged helix factors
+MA0268.2,C2H2 zinc finger factors
+MA0300.2,Other C4 zinc finger-type factors
+MA0301.2,Other C4 zinc finger-type factors
+MA0302.2,Other C4 zinc finger-type factors
+MA0303.3,Basic leucine zipper factors (bZIP)
+MA0306.2,C2H2 zinc finger factors
+MA0308.2,C6 zinc cluster factors
+MA0309.2,Other C4 zinc finger-type factors
+MA0310.2,Basic leucine zipper factors (bZIP)
+MA0312.3,C6 zinc cluster factors
+MA0317.2,Fork head/winged helix factors
+MA0319.2,Heat shock factors
+MA0325.2,C6 zinc cluster factors
+MA0529.3,C2H2 zinc finger factors
+MA0010.2,C2H2 zinc finger factors
+MA0011.2,C2H2 zinc finger factors
+MA0012.2,C2H2 zinc finger factors
+MA0443.2,C2H2 zinc finger factors
+MA0015.2,C2H2 zinc finger factors
+MA0184.2,Homeo domain factors
+MA0531.2,C2H2 zinc finger factors
+MA1456.2,C2H2 zinc finger factors
+MA0915.2,Homeo domain factors
+MA0189.2,Homeo domain factors
+MA0222.2,Homeo domain factors
+MA1839.2,Other C4 zinc finger-type factors
+MA1840.2,GCM domain factors
+MA1458.2,Heat shock factors
+MA1841.2,Rel homology region (RHR) factors
+MA0451.2,Nuclear receptors with C4 zinc fingers
+MA0452.3,C2H2 zinc finger factors
+MA0195.2,Homeo domain factors
+MA1459.2,C2H2 zinc finger factors
+MA0197.3,Homeo domain factors
+MA0126.2,C2H2 zinc finger factors
+MA1702.2,Basic leucine zipper factors (bZIP)
+MA0457.2,Homeo domain factors
+MA1460.2,C2H2 zinc finger factors
+MA0536.2,Other C4 zinc finger-type factors
+MA0200.2,Homeo domain factors
+MA0239.2,Paired box factors
+MA0458.2,Fork head/winged helix factors
+MA0086.3,C2H2 zinc finger factors
+MA1461.2,Paired box factors
+MA0247.3,Homeo domain factors
+MA0205.3,C2H2 zinc finger factors
+MA0249.3,Basic helix-loop-helix factors (bHLH)
+MA0094.3,Homeo domain factors
+MA0016.2,Nuclear receptors with C4 zinc fingers
+MA1462.2,C2H2 zinc finger factors
+MA0252.2,Homeo domain factors
+MA0257.2,Homeo domain factors
+MA1438.2,Basic leucine zipper factors (bZIP)
+MA1444.2,Basic leucine zipper factors (bZIP)
+MA0264.2,Homeo domain factors
+MA1699.2,Homeo domain factors
+MA0921.2,Homeo domain factors
+MA0538.2,Other C4 zinc finger-type factors
+MA1446.2,Fork head/winged helix factors
+MA0919.2,Homeo domain factors
+MA0541.2,Fork head/winged helix factors
+MA1701.2,Other C4 zinc finger-type factors
+MA1439.2,Other C4 zinc finger-type factors
+MA0543.2,C2H2 zinc finger factors
+MA0920.2,Fork head/winged helix factors
+MA0545.2,Basic helix-loop-helix factors (bHLH)
+MA1449.2,Basic helix-loop-helix factors (bHLH)
+MA0923.2,C2H2 zinc finger factors
+MA1441.2,Homeo domain factors
+MA1703.2,C2H2 zinc finger factors
+MA0547.2,Basic leucine zipper factors (bZIP)
+MA1443.2,Homeo domain factors
+MA0918.2,Homeo domain factors
+MA0928.2,Homeo domain factors
+MA1704.2,Basic leucine zipper factors (bZIP)
+MA0571.2,AP2/EREBP
+MA1377.2,AP2/EREBP
+MA0971.2,AP2/EREBP
+MA0976.3,AP2/EREBP
+MA0980.3,AP2/EREBP
+MA0992.3,AP2/EREBP
+MA0993.2,AP2/EREBP
+MA0994.3,AP2/EREBP
+MA0995.3,AP2/EREBP
+MA0997.2,AP2/EREBP
+MA0998.2,AP2/EREBP
+MA1000.3,AP2/EREBP
+MA1001.4,AP2/EREBP
+MA1004.2,AP2/EREBP
+MA1005.3,AP2/EREBP
+MA1006.2,AP2/EREBP
+MA1008.2,AP2/EREBP
+MA1010.2,AP2/EREBP
+MA1032.2,AP2/EREBP
+MA1049.2,AP2/EREBP
+MA1218.2,AP2/EREBP
+MA1219.3,AP2/EREBP
+MA1220.2,AP2/EREBP
+MA1223.2,AP2/EREBP
+MA1226.2,AP2/EREBP
+MA1227.3,AP2/EREBP
+MA1228.2,AP2/EREBP
+MA1229.2,AP2/EREBP
+MA1230.2,AP2/EREBP
+MA1231.3,AP2/EREBP
+MA1232.2,AP2/EREBP
+MA1233.3,AP2/EREBP
+MA1234.2,AP2/EREBP
+MA1238.3,AP2/EREBP
+MA1239.2,AP2/EREBP
+MA1240.2,AP2/EREBP
+MA1241.2,AP2/EREBP
+MA1243.2,AP2/EREBP
+MA1244.2,AP2/EREBP
+MA1245.3,AP2/EREBP
+MA1246.2,AP2/EREBP
+MA1247.2,AP2/EREBP
+MA1248.2,AP2/EREBP
+MA1250.2,AP2/EREBP
+MA1251.2,AP2/EREBP
+MA1252.2,AP2/EREBP
+MA1253.2,AP2/EREBP
+MA1256.2,AP2/EREBP
+MA1257.2,AP2/EREBP
+MA1258.2,AP2/EREBP
+MA1259.2,AP2/EREBP
+MA1260.2,AP2/EREBP
+MA1261.2,AP2/EREBP
+MA1262.2,AP2/EREBP
+MA1263.2,AP2/EREBP
+MA1264.2,AP2/EREBP
+MA1265.3,AP2/EREBP
+MA1266.2,AP2/EREBP
+MA1424.2,AP2/EREBP
+MA1669.2,AP2/EREBP
+MA1670.2,AP2/EREBP
+MA1671.2,AP2/EREBP
+MA1679.2,AP2/EREBP
+MA1748.2,AP2/EREBP
+MA1752.2,AP2/EREBP
+MA1753.2,AP2/EREBP
+MA1754.2,AP2/EREBP
+MA1795.2,AP2/EREBP
+MA1804.2,AP2/EREBP
+MA1817.2,AP2/EREBP
+MA1819.2,AP2/EREBP
+MA1820.2,AP2/EREBP
+MA1821.2,AP2/EREBP
+MA1831.2,AP2/EREBP
+MA1832.2,AP2/EREBP
+MA1833.2,AP2/EREBP
+MA2011.2,AP2/EREBP
+MA2013.2,AP2/EREBP
+MA0564.2,B3
+MA0565.3,B3
+MA0581.2,B3
+MA1810.2,B3
+MA0942.2,B3
+MA0943.2,B3
+MA0944.2,B3
+MA1206.2,B3
+MA1685.2,B3
+MA1688.2,B3
+MA1689.2,B3
+MA1690.2,B3
+MA1691.2,B3
+MA1692.2,B3
+MA1693.2,B3
+MA1694.2,B3
+MA1695.2,B3
+MA1696.2,B3
+MA1697.2,B3
+MA1698.2,B3
+MA0582.2,B3
+MA0552.2,Basic helix-loop-helix factors (bHLH)
+MA0560.2,Basic helix-loop-helix factors (bHLH)
+MA0568.2,Basic helix-loop-helix factors (bHLH)
+MA0569.2,Basic helix-loop-helix factors (bHLH)
+MA0956.2,Basic helix-loop-helix factors (bHLH)
+MA0961.2,Basic helix-loop-helix factors (bHLH)
+MA0962.2,Basic helix-loop-helix factors (bHLH)
+MA0964.3,Basic helix-loop-helix factors (bHLH)
+MA0965.3,Basic helix-loop-helix factors (bHLH)
+MA0966.2,Basic helix-loop-helix factors (bHLH)
+MA1025.2,Basic helix-loop-helix factors (bHLH)
+MA1061.2,Basic helix-loop-helix factors (bHLH)
+MA1074.2,Basic helix-loop-helix factors (bHLH)
+MA1357.2,Basic helix-loop-helix factors (bHLH)
+MA1358.2,Basic helix-loop-helix factors (bHLH)
+MA1359.3,Basic helix-loop-helix factors (bHLH)
+MA1360.3,Basic helix-loop-helix factors (bHLH)
+MA1361.2,Basic helix-loop-helix factors (bHLH)
+MA1362.2,Basic helix-loop-helix factors (bHLH)
+MA1364.2,Basic helix-loop-helix factors (bHLH)
+MA1411.2,Basic helix-loop-helix factors (bHLH)
+MA1412.2,Basic helix-loop-helix factors (bHLH)
+MA1739.2,Basic helix-loop-helix factors (bHLH)
+MA1740.2,Basic helix-loop-helix factors (bHLH)
+MA1816.2,Basic helix-loop-helix factors (bHLH)
+MA1834.2,Basic helix-loop-helix factors (bHLH)
+MA0549.2,Basic helix-loop-helix factors (bHLH)
+MA0550.3,Basic helix-loop-helix factors (bHLH)
+MA1331.2,Basic helix-loop-helix factors (bHLH)
+MA1332.2,Basic helix-loop-helix factors (bHLH)
+MA1333.2,Basic helix-loop-helix factors (bHLH)
+MA2014.2,Basic helix-loop-helix factors (bHLH)
+MA0587.2,TCP
+MA1019.2,TCP
+MA1031.2,TCP
+MA1054.2,TCP
+MA1062.3,TCP
+MA1063.2,TCP
+MA1064.2,TCP
+MA1065.3,TCP
+MA1282.2,TCP
+MA1283.2,TCP
+MA1284.2,TCP
+MA1285.2,TCP
+MA1286.2,TCP
+MA1287.2,TCP
+MA1288.2,TCP
+MA1289.2,TCP
+MA1410.2,TCP
+MA1428.2,TCP
+MA1430.2,TCP
+MA1828.2,TCP
+MA0988.2,Basic helix-loop-helix factors (bHLH)
+MA1011.2,Basic helix-loop-helix factors (bHLH)
+MA1021.2,Basic helix-loop-helix factors (bHLH)
+MA1822.2,Basic leucine zipper factors (bZIP)
+MA0570.3,Basic leucine zipper factors (bZIP)
+MA0930.3,Basic leucine zipper factors (bZIP)
+MA0931.2,Basic leucine zipper factors (bZIP)
+MA0941.2,Basic leucine zipper factors (bZIP)
+MA1338.3,Basic leucine zipper factors (bZIP)
+MA1659.2,Basic leucine zipper factors (bZIP)
+MA1808.2,Basic leucine zipper factors (bZIP)
+MA1811.2,Basic leucine zipper factors (bZIP)
+MA1344.2,Basic leucine zipper factors (bZIP)
+MA1417.2,Basic leucine zipper factors (bZIP)
+MA1745.2,Basic leucine zipper factors (bZIP)
+MA0588.2,Basic leucine zipper factors (bZIP)
+MA1047.3,Basic leucine zipper factors (bZIP)
+MA1068.3,Basic leucine zipper factors (bZIP)
+MA1069.3,Basic leucine zipper factors (bZIP)
+MA1070.3,Basic leucine zipper factors (bZIP)
+MA1336.2,Basic leucine zipper factors (bZIP)
+MA1346.2,Basic leucine zipper factors (bZIP)
+MA1835.2,Basic leucine zipper factors (bZIP)
+MA0968.3,Basic leucine zipper factors (bZIP)
+MA1349.2,Basic leucine zipper factors (bZIP)
+MA1351.3,Basic leucine zipper factors (bZIP)
+MA1672.2,Basic leucine zipper factors (bZIP)
+MA0551.2,Basic leucine zipper factors (bZIP)
+MA1425.2,Basic leucine zipper factors (bZIP)
+MA1343.2,Basic leucine zipper factors (bZIP)
+MA1742.2,Basic leucine zipper factors (bZIP)
+MA1744.2,Basic leucine zipper factors (bZIP)
+MA1803.2,Basic leucine zipper factors (bZIP)
+MA1334.2,Basic leucine zipper factors (bZIP)
+MA1337.2,Basic leucine zipper factors (bZIP)
+MA1340.2,Basic leucine zipper factors (bZIP)
+MA1341.2,Basic leucine zipper factors (bZIP)
+MA1345.2,Basic leucine zipper factors (bZIP)
+MA1743.2,Basic leucine zipper factors (bZIP)
+MA2015.2,GCM domain factors
+MA1156.2,C2H2 zinc finger factors
+MA1157.2,C2H2 zinc finger factors
+MA1158.2,C2H2 zinc finger factors
+MA1159.2,C2H2 zinc finger factors
+MA1160.2,C2H2 zinc finger factors
+MA1370.2,C2H2 zinc finger factors
+MA1371.2,C2H2 zinc finger factors
+MA1372.2,C2H2 zinc finger factors
+MA1374.2,C2H2 zinc finger factors
+MA1381.2,C2H2 zinc finger factors
+MA1405.2,C2H2 zinc finger factors
+MA1415.2,C2H2 zinc finger factors
+MA1736.2,C2H2 zinc finger factors
+MA1801.2,C2H2 zinc finger factors
+MA2052.2,C2H2 zinc finger factors
+MA0969.2,GCM domain factors
+MA0970.2,GCM domain factors
+MA1197.2,GCM domain factors
+MA1414.2,Fork head/winged helix factors
+MA0938.3,GCM domain factors
+MA1043.2,GCM domain factors
+MA1044.2,GCM domain factors
+MA1045.2,GCM domain factors
+MA1427.3,GCM domain factors
+MA1660.2,GCM domain factors
+MA1663.3,GCM domain factors
+MA1674.3,GCM domain factors
+MA1675.2,GCM domain factors
+MA1676.3,GCM domain factors
+MA1677.2,GCM domain factors
+MA1678.3,GCM domain factors
+MA1785.2,GCM domain factors
+MA1786.2,GCM domain factors
+MA1787.2,GCM domain factors
+MA2006.2,GCM domain factors
+MA2009.2,GCM domain factors
+MA2010.2,GCM domain factors
+MA2017.2,GCM domain factors
+MA2018.2,GCM domain factors
+MA2033.2,GCM domain factors
+MA2034.2,GCM domain factors
+MA2035.2,GCM domain factors
+MA2036.2,GCM domain factors
+MA2037.2,GCM domain factors
+MA2038.2,GCM domain factors
+MA2043.2,GCM domain factors
+MA2044.2,GCM domain factors
+MA2045.2,GCM domain factors
+MA2046.2,GCM domain factors
+MA2047.2,GCM domain factors
+MA2048.2,GCM domain factors
+MA2049.2,GCM domain factors
+MA2050.2,GCM domain factors
+MA2051.2,GCM domain factors
+MA2053.2,GCM domain factors
+MA0589.2,GCM domain factors
+MA1076.3,GCM domain factors
+MA1077.2,GCM domain factors
+MA1078.2,GCM domain factors
+MA1079.3,GCM domain factors
+MA1081.3,GCM domain factors
+MA1083.3,GCM domain factors
+MA1085.3,GCM domain factors
+MA1086.2,GCM domain factors
+MA1087.3,GCM domain factors
+MA1088.2,GCM domain factors
+MA1089.2,GCM domain factors
+MA1090.2,GCM domain factors
+MA1092.2,GCM domain factors
+MA1093.2,GCM domain factors
+MA1094.3,GCM domain factors
+MA1295.2,GCM domain factors
+MA1296.2,GCM domain factors
+MA1297.2,GCM domain factors
+MA1298.2,GCM domain factors
+MA1299.2,GCM domain factors
+MA1300.2,GCM domain factors
+MA1301.2,GCM domain factors
+MA1302.2,GCM domain factors
+MA1303.2,GCM domain factors
+MA1304.2,GCM domain factors
+MA1305.2,GCM domain factors
+MA1306.2,GCM domain factors
+MA1307.3,GCM domain factors
+MA1308.2,GCM domain factors
+MA1310.2,GCM domain factors
+MA1311.3,GCM domain factors
+MA1312.2,GCM domain factors
+MA1313.2,GCM domain factors
+MA1314.2,GCM domain factors
+MA1315.2,GCM domain factors
+MA1316.2,GCM domain factors
+MA1317.2,GCM domain factors
+MA1318.2,GCM domain factors
+MA1805.2,GCM domain factors
+MA0557.2,GCM domain factors
+MA1382.2,GCM domain factors
+MA1664.3,Heat shock factors
+MA1665.3,Heat shock factors
+MA1666.3,Heat shock factors
+MA1667.3,Heat shock factors
+MA1758.2,Heat shock factors
+MA1759.2,Heat shock factors
+MA1761.2,Heat shock factors
+MA2019.2,Heat shock factors
+MA2020.2,Heat shock factors
+MA0008.4,Homeo domain factors
+MA0110.4,Homeo domain factors
+MA0573.2,Homeo domain factors
+MA0953.2,Homeo domain factors
+MA0954.3,Homeo domain factors
+MA0990.2,Homeo domain factors
+MA1024.2,Homeo domain factors
+MA1026.3,Homeo domain factors
+MA1198.2,Homeo domain factors
+MA1209.2,Homeo domain factors
+MA1210.3,Homeo domain factors
+MA1211.2,Homeo domain factors
+MA1212.2,Homeo domain factors
+MA1214.2,Homeo domain factors
+MA1215.2,Homeo domain factors
+MA1327.3,Homeo domain factors
+MA1369.2,Homeo domain factors
+MA1375.2,Homeo domain factors
+MA1406.2,Homeo domain factors
+MA1757.2,Homeo domain factors
+MA1824.2,Homeo domain factors
+MA1213.3,Homeo domain factors
+MA1326.2,Homeo domain factors
+MA1329.3,Homeo domain factors
+MA1330.2,Homeo domain factors
+MA1807.2,Homeo domain factors
+MA0001.3,MADS box factors
+MA0005.3,MADS box factors
+MA0082.2,MADS box factors
+MA0548.3,MADS box factors
+MA0554.2,MADS box factors
+MA0555.2,MADS box factors
+MA0556.2,MADS box factors
+MA0558.2,MADS box factors
+MA0563.2,MADS box factors
+MA0584.2,MADS box factors
+MA0585.2,MADS box factors
+MA1814.2,MADS box factors
+MA1015.2,Other C4 zinc finger-type factors
+MA1016.2,Other C4 zinc finger-type factors
+MA1017.2,Other C4 zinc finger-type factors
+MA1018.2,Other C4 zinc finger-type factors
+MA1323.2,Other C4 zinc finger-type factors
+MA1325.2,Other C4 zinc finger-type factors
+MA1396.2,Other C4 zinc finger-type factors
+MA1755.2,Other C4 zinc finger-type factors
+MA0020.2,Other C4 zinc finger-type factors
+MA0973.2,Other C4 zinc finger-type factors
+MA0974.3,Other C4 zinc finger-type factors
+MA0981.2,Other C4 zinc finger-type factors
+MA0982.2,Other C4 zinc finger-type factors
+MA0983.2,Other C4 zinc finger-type factors
+MA0984.2,Other C4 zinc finger-type factors
+MA0987.2,Other C4 zinc finger-type factors
+MA0989.2,Other C4 zinc finger-type factors
+MA1022.2,Other C4 zinc finger-type factors
+MA1071.2,Other C4 zinc finger-type factors
+MA1267.2,Other C4 zinc finger-type factors
+MA1268.2,Other C4 zinc finger-type factors
+MA1269.2,Other C4 zinc finger-type factors
+MA1270.2,Other C4 zinc finger-type factors
+MA1272.3,Other C4 zinc finger-type factors
+MA1273.2,Other C4 zinc finger-type factors
+MA1275.2,Other C4 zinc finger-type factors
+MA1276.2,Other C4 zinc finger-type factors
+MA1277.2,Other C4 zinc finger-type factors
+MA1278.2,Other C4 zinc finger-type factors
+MA1279.2,Other C4 zinc finger-type factors
+MA1280.2,Other C4 zinc finger-type factors
+MA1281.2,Other C4 zinc finger-type factors
+MA1747.2,Other C4 zinc finger-type factors
+MA1823.2,Other C4 zinc finger-type factors
+MA1673.2,Other C4 zinc finger-type factors
+MA2021.2,Other C4 zinc finger-type factors
+MA2022.2,Other C4 zinc finger-type factors
+MA0121.2,Tryptophan cluster factors
+MA0945.2,Tryptophan cluster factors
+MA0948.2,Tryptophan cluster factors
+MA0949.2,Tryptophan cluster factors
+MA1409.2,Tryptophan cluster factors
+MA1027.2,Tryptophan cluster factors
+MA1163.3,Tryptophan cluster factors
+MA1164.2,Tryptophan cluster factors
+MA1165.3,Tryptophan cluster factors
+MA1166.2,Tryptophan cluster factors
+MA1167.2,Tryptophan cluster factors
+MA1168.2,Tryptophan cluster factors
+MA1383.2,Tryptophan cluster factors
+MA1385.2,Tryptophan cluster factors
+MA1386.3,Tryptophan cluster factors
+MA1387.2,Tryptophan cluster factors
+MA1388.2,Tryptophan cluster factors
+MA1389.2,Tryptophan cluster factors
+MA1390.3,Tryptophan cluster factors
+MA1706.2,Tryptophan cluster factors
+MA1735.2,Tryptophan cluster factors
+MA1737.2,Tryptophan cluster factors
+MA1827.2,Tryptophan cluster factors
+MA1830.2,Tryptophan cluster factors
+MA2023.2,Tryptophan cluster factors
+MA0034.2,Tryptophan cluster factors
+MA0575.2,Tryptophan cluster factors
+MA0576.2,Tryptophan cluster factors
+MA1030.2,Tryptophan cluster factors
+MA1037.2,Tryptophan cluster factors
+MA1038.2,Tryptophan cluster factors
+MA1170.2,Tryptophan cluster factors
+MA1171.2,Tryptophan cluster factors
+MA1172.2,Tryptophan cluster factors
+MA1173.2,Tryptophan cluster factors
+MA1174.2,Tryptophan cluster factors
+MA1175.2,Tryptophan cluster factors
+MA1176.2,Tryptophan cluster factors
+MA1177.2,Tryptophan cluster factors
+MA1178.3,Tryptophan cluster factors
+MA1179.2,Tryptophan cluster factors
+MA1180.2,Tryptophan cluster factors
+MA1181.2,Tryptophan cluster factors
+MA1292.2,Tryptophan cluster factors
+MA1293.2,Tryptophan cluster factors
+MA1294.2,Tryptophan cluster factors
+MA1391.3,Tryptophan cluster factors
+MA1392.3,Tryptophan cluster factors
+MA1393.3,Tryptophan cluster factors
+MA1394.3,Tryptophan cluster factors
+MA1426.2,Tryptophan cluster factors
+MA1762.2,Tryptophan cluster factors
+MA1764.2,Tryptophan cluster factors
+MA1765.2,Tryptophan cluster factors
+MA1766.2,Tryptophan cluster factors
+MA1767.2,Tryptophan cluster factors
+MA1768.2,Tryptophan cluster factors
+MA1769.2,Tryptophan cluster factors
+MA1770.2,Tryptophan cluster factors
+MA1771.2,Tryptophan cluster factors
+MA1772.2,Tryptophan cluster factors
+MA1773.2,Tryptophan cluster factors
+MA1774.2,Tryptophan cluster factors
+MA1775.2,Tryptophan cluster factors
+MA1776.2,Tryptophan cluster factors
+MA1777.2,Tryptophan cluster factors
+MA1778.2,Tryptophan cluster factors
+MA1779.2,Tryptophan cluster factors
+MA1780.2,Tryptophan cluster factors
+MA1781.2,Tryptophan cluster factors
+MA1829.2,Tryptophan cluster factors
+MA2007.2,Tryptophan cluster factors
+MA2008.2,Tryptophan cluster factors
+MA2024.2,Tryptophan cluster factors
+MA2025.2,Tryptophan cluster factors
+MA2026.2,Tryptophan cluster factors
+MA2027.2,Tryptophan cluster factors
+MA2028.2,Tryptophan cluster factors
+MA2029.2,Tryptophan cluster factors
+MA2030.2,Tryptophan cluster factors
+MA2041.2,Tryptophan cluster factors
+MA2042.2,Tryptophan cluster factors
+MA0579.2,Tryptophan cluster factors
+MA1182.2,Tryptophan cluster factors
+MA1183.2,Tryptophan cluster factors
+MA1184.2,Tryptophan cluster factors
+MA1185.2,Tryptophan cluster factors
+MA1186.2,Tryptophan cluster factors
+MA1187.2,Tryptophan cluster factors
+MA1189.2,Tryptophan cluster factors
+MA1190.2,Tryptophan cluster factors
+MA1191.2,Tryptophan cluster factors
+MA1192.2,Tryptophan cluster factors
+MA1193.2,Tryptophan cluster factors
+MA1194.2,Tryptophan cluster factors
+MA1195.2,Tryptophan cluster factors
+MA1196.2,Tryptophan cluster factors
+MA1353.2,Tryptophan cluster factors
+MA1355.2,Tryptophan cluster factors
+MA1397.2,Tryptophan cluster factors
+MA1398.3,Tryptophan cluster factors
+MA1400.2,Tryptophan cluster factors
+MA1401.2,Tryptophan cluster factors
+MA1408.2,Tryptophan cluster factors
+MA1681.2,Tryptophan cluster factors
+MA1793.2,Tryptophan cluster factors
+MA1802.2,Tryptophan cluster factors
+MA1812.2,Tryptophan cluster factors
+MA1825.2,Tryptophan cluster factors
+MA2031.2,Tryptophan cluster factors
+MA2032.2,Tryptophan cluster factors
+MA1207.2,Tryptophan cluster factors
+MA1208.2,Tryptophan cluster factors
+MA1365.3,Tryptophan cluster factors
+MA1366.2,Tryptophan cluster factors
+MA1367.2,Tryptophan cluster factors
+MA1368.3,Tryptophan cluster factors
+MA1661.2,Tryptophan cluster factors
+MA1662.2,Tryptophan cluster factors
+MA1733.2,Tryptophan cluster factors
+MA2039.2,Tryptophan cluster factors
+MA2040.2,Tryptophan cluster factors
+MA1843.2,Basic helix-loop-helix factors (bHLH)
+MA1844.2,Homeo domain factors
+MA1845.2,Basic helix-loop-helix factors (bHLH)
+MA1846.2,T-Box factors
+MA1847.2,Homeo domain factors
+MA1848.2,Basic leucine zipper factors (bZIP)
+MA1849.2,Basic leucine zipper factors (bZIP)
+MA1850.2,Homeo domain factors
+MA1851.2,Homeo domain factors
+MA1852.2,Homeo domain factors
+MA1853.2,Tryptophan cluster factors
+MA1854.2,Tryptophan cluster factors
+MA1855.2,Tryptophan cluster factors
+MA1856.2,Tryptophan cluster factors
+MA1857.2,Tryptophan cluster factors
+MA1858.2,Basic leucine zipper factors (bZIP)
+MA1859.2,Fork head/winged helix factors
+MA1860.2,Fork head/winged helix factors
+MA1861.2,Fork head/winged helix factors
+MA1862.2,Fork head/winged helix factors
+MA1863.2,Fork head/winged helix factors
+MA1864.2,Fork head/winged helix factors
+MA1865.2,Fork head/winged helix factors
+MA1866.2,Fork head/winged helix factors
+MA1867.2,Fork head/winged helix factors
+MA1868.2,Fork head/winged helix factors
+MA1869.2,Fork head/winged helix factors
+MA1870.2,Fork head/winged helix factors
+MA1871.2,Fork head/winged helix factors
+MA1872.2,Fork head/winged helix factors
+MA1873.2,Fork head/winged helix factors
+MA1874.2,Other C4 zinc finger-type factors
+MA1875.2,Other C4 zinc finger-type factors
+MA1877.2,Basic helix-loop-helix factors (bHLH)
+MA1878.2,Basic helix-loop-helix factors (bHLH)
+MA1879.2,Homeo domain factors
+MA1880.2,Basic helix-loop-helix factors (bHLH)
+MA1881.2,Homeo domain factors
+MA1882.2,Homeo domain factors
+MA1883.2,Homeo domain factors
+MA1884.2,Homeo domain factors
+MA1885.2,Homeo domain factors
+MA1886.2,Homeo domain factors
+MA1887.2,Heat shock factors
+MA1888.2,Tryptophan cluster factors
+MA1889.2,Homeo domain factors
+MA1891.2,C2H2 zinc finger factors
+MA1892.2,C2H2 zinc finger factors
+MA1894.2,Basic leucine zipper factors (bZIP)
+MA1895.2,Homeo domain factors
+MA1896.2,Homeo domain factors
+MA0118.2,C2H2 zinc finger factors
+MA1897.2,Basic helix-loop-helix factors (bHLH)
+MA1898.2,Homeo domain factors
+MA1899.2,Basic helix-loop-helix factors (bHLH)
+MA1900.2,Homeo domain factors
+MA1901.2,Homeo domain factors
+MA1902.2,Rel homology region (RHR) factors
+MA1903.2,Homeo domain factors
+MA1904.2,Homeo domain factors
+MA1905.2,Homeo domain factors
+MA1906.2,Homeo domain factors
+MA1907.2,Homeo domain factors
+MA1908.2,Homeo domain factors
+MA1909.2,Homeo domain factors
+MA1910.2,Homeo domain factors
+MA1911.2,Rel homology region (RHR) factors
+MA1912.2,Homeo domain factors
+MA1913.2,Basic leucine zipper factors (bZIP)
+MA1914.2,C2H2 zinc finger factors
+MA1915.2,High-mobility group (HMG) domain factors
+MA1916.2,High-mobility group (HMG) domain factors
+MA1917.2,High-mobility group (HMG) domain factors
+MA1918.2,High-mobility group (HMG) domain factors
+MA1919.2,T-Box factors
+MA1920.2,T-Box factors
+MA1921.2,T-Box factors
+MA1922.2,T-Box factors
+MA1923.2,Basic helix-loop-helix factors (bHLH)
+MA1924.2,Homeo domain factors
+MA1925.2,Homeo domain factors
+MA1926.2,Basic helix-loop-helix factors (bHLH)
+MA1927.2,C2H2 zinc finger factors
+MA0854.2,Homeo domain factors
+MA0634.2,Homeo domain factors
+MA0853.2,Homeo domain factors
+MA0690.3,T-Box factors
+MA0007.4,Nuclear receptors with C4 zinc fingers
+MA1463.2,Homeo domain factors
+MA1464.2,Basic helix-loop-helix factors (bHLH)
+MA0603.2,Basic helix-loop-helix factors (bHLH)
+MA0874.2,Homeo domain factors
+MA1100.3,Basic helix-loop-helix factors (bHLH)
+MA1631.2,Basic helix-loop-helix factors (bHLH)
+MA1632.2,Basic leucine zipper factors (bZIP)
+MA1988.2,Basic leucine zipper factors (bZIP)
+MA0605.3,Basic leucine zipper factors (bZIP)
+MA0833.3,Basic leucine zipper factors (bZIP)
+MA1466.2,Basic leucine zipper factors (bZIP)
+MA0834.2,Basic leucine zipper factors (bZIP)
+MA0461.3,Basic helix-loop-helix factors (bHLH)
+MA1467.3,Basic helix-loop-helix factors (bHLH)
+MA0496.4,Basic leucine zipper factors (bZIP)
+MA1101.3,Basic leucine zipper factors (bZIP)
+MA1470.2,Basic leucine zipper factors (bZIP)
+MA0877.4,Homeo domain factors
+MA0635.2,Homeo domain factors
+MA0875.2,Homeo domain factors
+MA1471.2,Homeo domain factors
+MA1634.2,Basic leucine zipper factors (bZIP)
+MA0489.3,Basic leucine zipper factors (bZIP)
+MA0488.2,Basic leucine zipper factors (bZIP)
+MA0835.3,Basic leucine zipper factors (bZIP)
+MA1989.2,C2H2 zinc finger factors
+MA0463.3,C2H2 zinc finger factors
+MA1472.3,Basic helix-loop-helix factors (bHLH)
+MA1635.2,Basic helix-loop-helix factors (bHLH)
+MA0817.2,Basic helix-loop-helix factors (bHLH)
+MA0464.3,Basic helix-loop-helix factors (bHLH)
+MA1928.2,C2H2 zinc finger factors
+MA0876.2,Homeo domain factors
+MA0465.3,Homeo domain factors
+MA1473.2,Homeo domain factors
+MA0102.5,Basic leucine zipper factors (bZIP)
+MA0466.4,Basic leucine zipper factors (bZIP)
+MA0836.3,Basic leucine zipper factors (bZIP)
+MA0837.3,Basic leucine zipper factors (bZIP)
+MA1636.2,Basic leucine zipper factors (bZIP)
+MA0819.3,Basic helix-loop-helix factors (bHLH)
+MA0018.5,Basic leucine zipper factors (bZIP)
+MA0638.2,Basic leucine zipper factors (bZIP)
+MA0839.2,Basic leucine zipper factors (bZIP)
+MA1474.2,Basic leucine zipper factors (bZIP)
+MA1475.2,Basic leucine zipper factors (bZIP)
+MA0840.2,Basic leucine zipper factors (bZIP)
+MA0609.3,Basic leucine zipper factors (bZIP)
+MA0467.3,Homeo domain factors
+MA0139.2,C2H2 zinc finger factors
+MA1929.2,C2H2 zinc finger factors
+MA1930.2,C2H2 zinc finger factors
+MA1102.3,C2H2 zinc finger factors
+MA0754.3,Homeo domain factors
+MA0650.4,Homeo domain factors
+MA0901.3,Homeo domain factors
+MA0755.2,Homeo domain factors
+MA0639.2,Basic leucine zipper factors (bZIP)
+MA0879.3,Homeo domain factors
+MA0885.3,Homeo domain factors
+MA0880.2,Homeo domain factors
+MA0881.2,Homeo domain factors
+MA1476.3,Homeo domain factors
+MA0882.2,Homeo domain factors
+MA0883.2,Homeo domain factors
+MA1480.2,Homeo domain factors
+MA1481.2,Homeo domain factors
+MA0611.3,Homeo domain factors
+MA0864.3,Fork head/winged helix factors
+MA0469.4,Fork head/winged helix factors
+MA0756.3,Homeo domain factors
+MA0470.3,Fork head/winged helix factors
+MA0471.3,Fork head/winged helix factors
+MA0865.3,Fork head/winged helix factors
+MA0154.5,Rel homology region (RHR) factors
+MA1604.2,Rel homology region (RHR) factors
+MA1637.2,Rel homology region (RHR) factors
+MA0162.5,C2H2 zinc finger factors
+MA0732.2,C2H2 zinc finger factors
+MA0733.2,C2H2 zinc finger factors
+MA0598.4,Tryptophan cluster factors
+MA0473.4,Tryptophan cluster factors
+MA1483.3,Tryptophan cluster factors
+MA0640.3,Tryptophan cluster factors
+MA0136.4,Tryptophan cluster factors
+MA0028.3,Tryptophan cluster factors
+MA0800.2,T-Box factors
+MA1708.2,Tryptophan cluster factors
+MA1495.2,Homeo domain factors
+MA0779.2,Paired box factors
+MA0014.4,Paired box factors
+MA0781.2,Paired box factors
+MA0686.2,Tryptophan cluster factors
+MA0828.3,Basic helix-loop-helix factors (bHLH)
+MA0843.2,Basic leucine zipper factors (bZIP)
+MA0759.3,Tryptophan cluster factors
+MA0076.3,Tryptophan cluster factors
+MA0612.3,Homeo domain factors
+MA0886.2,Homeo domain factors
+MA0027.3,Homeo domain factors
+MA0642.3,Homeo domain factors
+MA0760.2,Tryptophan cluster factors
+MA0820.2,Basic helix-loop-helix factors (bHLH)
+MA0480.3,Fork head/winged helix factors
+MA0058.4,Basic helix-loop-helix factors (bHLH)
+MA0048.3,Basic helix-loop-helix factors (bHLH)
+MA0474.4,Tryptophan cluster factors
+MA0112.4,Nuclear receptors with C4 zinc fingers
+MA0592.4,Nuclear receptors with C4 zinc fingers
+MA0141.4,Nuclear receptors with C4 zinc fingers
+MA0643.2,Nuclear receptors with C4 zinc fingers
+MA0644.3,Homeo domain factors
+MA0098.4,Tryptophan cluster factors
+MA1484.2,Tryptophan cluster factors
+MA0761.3,Tryptophan cluster factors
+MA0762.2,Tryptophan cluster factors
+MA0763.2,Tryptophan cluster factors
+MA0764.4,Tryptophan cluster factors
+MA0765.4,Tryptophan cluster factors
+MA0900.3,Homeo domain factors
+MA0645.2,Tryptophan cluster factors
+MA0887.2,Homeo domain factors
+MA0888.2,Homeo domain factors
+MA0156.4,Tryptophan cluster factors
+MA0475.3,Tryptophan cluster factors
+MA0476.2,Basic leucine zipper factors (bZIP)
+MA1951.2,Basic leucine zipper factors (bZIP)
+MA1140.3,Basic leucine zipper factors (bZIP)
+MA0490.3,Basic leucine zipper factors (bZIP)
+MA0492.2,Basic leucine zipper factors (bZIP)
+MA0491.3,Basic leucine zipper factors (bZIP)
+MA0477.3,Basic leucine zipper factors (bZIP)
+MA0478.2,Basic leucine zipper factors (bZIP)
+MA0148.5,Fork head/winged helix factors
+MA0047.4,Fork head/winged helix factors
+MA1683.2,Fork head/winged helix factors
+MA0846.2,Fork head/winged helix factors
+MA0031.2,Fork head/winged helix factors
+MA0847.4,Fork head/winged helix factors
+MA0041.3,Fork head/winged helix factors
+MA1487.3,Fork head/winged helix factors
+MA1606.2,Fork head/winged helix factors
+MA0030.2,Fork head/winged helix factors
+MA0479.2,Fork head/winged helix factors
+MA0682.3,Homeo domain factors
+MA0851.2,Fork head/winged helix factors
+MA0852.3,Fork head/winged helix factors
+MA1103.3,Fork head/winged helix factors
+MA1607.2,Fork head/winged helix factors
+MA0157.4,Fork head/winged helix factors
+MA0481.4,Fork head/winged helix factors
+MA0593.2,Fork head/winged helix factors
+MA0040.2,Fork head/winged helix factors
+MA0062.4,Tryptophan cluster factors
+MA0035.5,Other C4 zinc finger-type factors
+MA0036.4,Other C4 zinc finger-type factors
+MA0037.5,Other C4 zinc finger-type factors
+MA0482.3,Other C4 zinc finger-type factors
+MA0766.3,Other C4 zinc finger-type factors
+MA1104.3,Other C4 zinc finger-type factors
+MA0889.2,Homeo domain factors
+MA0890.2,Homeo domain factors
+MA0646.2,GCM domain factors
+MA0143.5,High-mobility group (HMG) domain factors
+MA0767.2,GCM domain factors
+MA0038.3,C2H2 zinc finger factors
+MA0483.2,C2H2 zinc finger factors
+MA1990.2,C2H2 zinc finger factors
+MA0734.4,C2H2 zinc finger factors
+MA1491.3,C2H2 zinc finger factors
+MA0735.2,C2H2 zinc finger factors
+MA0648.2,Homeo domain factors
+MA0891.2,Homeo domain factors
+MA0892.2,Homeo domain factors
+MA0893.3,Homeo domain factors
+MA0522.4,Basic helix-loop-helix factors (bHLH)
+MA1638.2,Basic helix-loop-helix factors (bHLH)
+MA1099.3,Basic helix-loop-helix factors (bHLH)
+MA0616.3,Basic helix-loop-helix factors (bHLH)
+MA0894.2,Homeo domain factors
+MA0649.2,Basic helix-loop-helix factors (bHLH)
+MA0739.2,C2H2 zinc finger factors
+MA0738.2,C2H2 zinc finger factors
+MA1106.2,Basic helix-loop-helix factors (bHLH)
+MA0131.3,C2H2 zinc finger factors
+MA0043.4,Basic leucine zipper factors (bZIP)
+MA0895.2,Homeo domain factors
+MA0896.2,Homeo domain factors
+MA0897.2,Homeo domain factors
+MA0898.2,Homeo domain factors
+MA1991.2,Homeo domain factors
+MA0046.3,Homeo domain factors
+MA1494.2,Nuclear receptors with C4 zinc fingers
+MA0114.5,Nuclear receptors with C4 zinc fingers
+MA0484.3,Nuclear receptors with C4 zinc fingers
+MA0899.2,Homeo domain factors
+MA0911.2,Homeo domain factors
+MA1496.2,Homeo domain factors
+MA1497.2,Homeo domain factors
+MA1498.3,Homeo domain factors
+MA0594.3,Homeo domain factors
+MA0902.3,Homeo domain factors
+MA1566.3,T-Box factors
+MA0903.2,Homeo domain factors
+MA1499.2,Homeo domain factors
+MA0904.3,Homeo domain factors
+MA1500.2,Homeo domain factors
+MA1501.2,Homeo domain factors
+MA1502.2,Homeo domain factors
+MA1503.2,Homeo domain factors
+MA0905.2,Homeo domain factors
+MA0651.3,Homeo domain factors
+MA0906.2,Homeo domain factors
+MA0907.2,Homeo domain factors
+MA1504.2,Homeo domain factors
+MA1505.2,Homeo domain factors
+MA0485.3,Homeo domain factors
+MA1506.2,Homeo domain factors
+MA0908.2,Homeo domain factors
+MA0873.2,Homeo domain factors
+MA0909.4,Homeo domain factors
+MA1507.2,Homeo domain factors
+MA0910.3,Homeo domain factors
+MA0913.3,Homeo domain factors
+MA1508.2,C2H2 zinc finger factors
+MA1992.2,C2H2 zinc finger factors
+MA0050.4,Tryptophan cluster factors
+MA0051.2,Tryptophan cluster factors
+MA1418.2,Tryptophan cluster factors
+MA1419.2,Tryptophan cluster factors
+MA0772.2,Tryptophan cluster factors
+MA0652.2,Tryptophan cluster factors
+MA1608.2,Homeo domain factors
+MA0914.2,Homeo domain factors
+MA0654.2,Homeo domain factors
+MA0656.2,Basic leucine zipper factors (bZIP)
+MA0493.3,C2H2 zinc finger factors
+MA1512.2,C2H2 zinc finger factors
+MA0657.2,C2H2 zinc finger factors
+MA1513.2,C2H2 zinc finger factors
+MA1514.2,C2H2 zinc finger factors
+MA1515.2,C2H2 zinc finger factors
+MA1516.2,C2H2 zinc finger factors
+MA0039.5,C2H2 zinc finger factors
+MA1517.2,C2H2 zinc finger factors
+MA1959.2,C2H2 zinc finger factors
+MA1107.3,C2H2 zinc finger factors
+MA0618.2,Homeo domain factors
+MA0699.2,Homeo domain factors
+MA0768.3,High-mobility group (HMG) domain factors
+MA1518.3,Homeo domain factors
+MA0700.3,Homeo domain factors
+MA0135.2,Homeo domain factors
+MA0704.2,Homeo domain factors
+MA1519.2,Homeo domain factors
+MA0658.2,Homeo domain factors
+MA0705.2,Homeo domain factors
+MA0701.3,Homeo domain factors
+MA0702.3,Homeo domain factors
+MA0703.3,Homeo domain factors
+MA1520.2,Basic leucine zipper factors (bZIP)
+MA0841.2,Basic leucine zipper factors (bZIP)
+MA1521.2,Basic leucine zipper factors (bZIP)
+MA0117.3,Basic leucine zipper factors (bZIP)
+MA0495.4,Basic leucine zipper factors (bZIP)
+MA0659.4,Basic leucine zipper factors (bZIP)
+MA0147.4,Basic helix-loop-helix factors (bHLH)
+MA1522.2,C2H2 zinc finger factors
+MA0029.2,C2H2 zinc finger factors
+MA0052.5,MADS box factors
+MA0497.2,MADS box factors
+MA0498.3,Homeo domain factors
+MA1639.2,Homeo domain factors
+MA1640.2,Homeo domain factors
+MA0775.2,Homeo domain factors
+MA0661.2,Homeo domain factors
+MA0706.2,Homeo domain factors
+MA0620.4,Basic helix-loop-helix factors (bHLH)
+MA0621.2,Homeo domain factors
+MA0662.2,Homeo domain factors
+MA0622.2,Basic helix-loop-helix factors (bHLH)
+MA0664.2,Basic helix-loop-helix factors (bHLH)
+MA0825.2,Basic helix-loop-helix factors (bHLH)
+MA0707.3,Homeo domain factors
+MA1523.2,Tryptophan cluster factors
+MA1524.3,Basic helix-loop-helix factors (bHLH)
+MA0666.3,Homeo domain factors
+MA0708.3,Homeo domain factors
+MA0709.2,Homeo domain factors
+MA1108.3,Basic helix-loop-helix factors (bHLH)
+MA0100.4,Tryptophan cluster factors
+MA0104.5,Basic helix-loop-helix factors (bHLH)
+MA1641.2,Basic helix-loop-helix factors (bHLH)
+MA0499.3,Basic helix-loop-helix factors (bHLH)
+MA0500.3,Basic helix-loop-helix factors (bHLH)
+MA0056.3,C2H2 zinc finger factors
+MA1109.2,Basic helix-loop-helix factors (bHLH)
+MA1993.2,Basic helix-loop-helix factors (bHLH)
+MA0668.3,Basic helix-loop-helix factors (bHLH)
+MA1642.2,Basic helix-loop-helix factors (bHLH)
+MA0606.3,Rel homology region (RHR) factors
+MA0624.3,Rel homology region (RHR) factors
+MA0152.3,Rel homology region (RHR) factors
+MA0625.3,Rel homology region (RHR) factors
+MA1525.3,Rel homology region (RHR) factors
+MA0150.3,Basic leucine zipper factors (bZIP)
+MA0025.3,Basic leucine zipper factors (bZIP)
+MA0778.2,Rel homology region (RHR) factors
+MA1529.2,Basic helix-loop-helix factors (bHLH)
+MA1994.2,Homeo domain factors
+MA1645.2,Homeo domain factors
+MA0672.2,Homeo domain factors
+MA2003.2,Homeo domain factors
+MA0063.3,Homeo domain factors
+MA0673.2,Homeo domain factors
+MA0124.3,Homeo domain factors
+MA0122.4,Homeo domain factors
+MA0674.2,Homeo domain factors
+MA0675.2,Homeo domain factors
+MA1530.2,Homeo domain factors
+MA0125.2,Homeo domain factors
+MA0710.2,Homeo domain factors
+MA0626.2,Basic helix-loop-helix factors (bHLH)
+MA1995.2,Basic helix-loop-helix factors (bHLH)
+MA1531.2,Nuclear receptors with C4 zinc fingers
+MA1996.2,Nuclear receptors with C4 zinc fingers
+MA1110.3,Nuclear receptors with C4 zinc fingers
+MA1533.2,Nuclear receptors with C4 zinc fingers
+MA1534.2,Nuclear receptors with C4 zinc fingers
+MA1535.2,Nuclear receptors with C4 zinc fingers
+MA0504.2,Nuclear receptors with C4 zinc fingers
+MA1536.2,Nuclear receptors with C4 zinc fingers
+MA0164.2,Nuclear receptors with C4 zinc fingers
+MA0017.3,Nuclear receptors with C4 zinc fingers
+MA1537.2,Nuclear receptors with C4 zinc fingers
+MA1111.2,Nuclear receptors with C4 zinc fingers
+MA0677.2,Nuclear receptors with C4 zinc fingers
+MA0113.4,Nuclear receptors with C4 zinc fingers
+MA0727.2,Nuclear receptors with C4 zinc fingers
+MA1112.3,Nuclear receptors with C4 zinc fingers
+MA0160.3,Nuclear receptors with C4 zinc fingers
+MA1540.3,Nuclear receptors with C4 zinc fingers
+MA0505.3,Nuclear receptors with C4 zinc fingers
+MA1541.2,Nuclear receptors with C4 zinc fingers
+MA0842.3,Basic leucine zipper factors (bZIP)
+MA1997.2,Basic helix-loop-helix factors (bHLH)
+MA0679.3,Homeo domain factors
+MA0757.2,Homeo domain factors
+MA1542.2,C2H2 zinc finger factors
+MA1646.2,C2H2 zinc finger factors
+MA0711.2,Homeo domain factors
+MA0712.3,Homeo domain factors
+MA1544.2,C2H2 zinc finger factors
+MA1545.2,C2H2 zinc finger factors
+MA1961.2,C2H2 zinc finger factors
+MA0067.3,Paired box factors
+MA1546.2,Paired box factors
+MA0680.3,Paired box factors
+MA0070.2,Homeo domain factors
+MA1113.3,Homeo domain factors
+MA1114.2,Homeo domain factors
+MA0132.3,Homeo domain factors
+MA0681.3,Homeo domain factors
+MA0714.2,Homeo domain factors
+MA0782.3,Homeo domain factors
+MA1615.2,C2H2 zinc finger factors
+MA1548.2,C2H2 zinc finger factors
+MA0784.3,Homeo domain factors
+MA0785.2,Homeo domain factors
+MA0507.3,Homeo domain factors
+MA0627.3,Homeo domain factors
+MA0786.2,Homeo domain factors
+MA0790.2,Homeo domain factors
+MA0683.2,Homeo domain factors
+MA0791.2,Homeo domain factors
+MA1115.2,Homeo domain factors
+MA0628.2,Homeo domain factors
+MA1549.2,Homeo domain factors
+MA0793.2,Homeo domain factors
+MA1550.2,Nuclear receptors with C4 zinc fingers
+MA0066.2,Nuclear receptors with C4 zinc fingers
+MA0508.4,C2H2 zinc finger factors
+MA1998.2,C2H2 zinc finger factors
+MA1616.2,C2H2 zinc finger factors
+MA1647.3,C2H2 zinc finger factors
+MA1999.2,C2H2 zinc finger factors
+MA1723.2,C2H2 zinc finger factors
+MA0716.2,Homeo domain factors
+MA0075.4,Homeo domain factors
+MA1619.2,Basic helix-loop-helix factors (bHLH)
+MA1620.2,Basic helix-loop-helix factors (bHLH)
+MA1552.2,Nuclear receptors with C4 zinc fingers
+MA0859.2,Nuclear receptors with C4 zinc fingers
+MA1553.2,Nuclear receptors with C4 zinc fingers
+MA0718.2,Homeo domain factors
+MA0717.2,Homeo domain factors
+MA1116.2,Rel homology region (RHR) factors
+MA1117.2,Rel homology region (RHR) factors
+MA0138.3,C2H2 zinc finger factors
+MA0600.3,Fork head/winged helix factors
+MA0799.3,Fork head/winged helix factors
+MA0510.3,Fork head/winged helix factors
+MA1724.2,Fork head/winged helix factors
+MA1554.2,Fork head/winged helix factors
+MA0629.2,Homeo domain factors
+MA0719.2,Homeo domain factors
+MA0072.2,Nuclear receptors with C4 zinc fingers
+MA1150.2,Nuclear receptors with C4 zinc fingers
+MA1151.2,Nuclear receptors with C4 zinc fingers
+MA0073.2,C2H2 zinc finger factors
+MA1963.2,Homeo domain factors
+MA0743.3,C2H2 zinc finger factors
+MA0744.3,C2H2 zinc finger factors
+MA0630.2,Homeo domain factors
+MA0720.2,Homeo domain factors
+MA1118.2,Homeo domain factors
+MA1119.2,Homeo domain factors
+MA0631.2,Homeo domain factors
+MA2001.2,Homeo domain factors
+MA1558.2,C2H2 zinc finger factors
+MA0745.3,C2H2 zinc finger factors
+MA1559.2,C2H2 zinc finger factors
+MA1560.2,Basic helix-loop-helix factors (bHLH)
+MA0442.3,High-mobility group (HMG) domain factors
+MA0869.3,High-mobility group (HMG) domain factors
+MA1561.2,High-mobility group (HMG) domain factors
+MA1120.2,High-mobility group (HMG) domain factors
+MA1562.2,High-mobility group (HMG) domain factors
+MA1152.2,High-mobility group (HMG) domain factors
+MA0078.3,High-mobility group (HMG) domain factors
+MA0514.3,High-mobility group (HMG) domain factors
+MA0867.3,High-mobility group (HMG) domain factors
+MA0087.3,High-mobility group (HMG) domain factors
+MA0868.3,High-mobility group (HMG) domain factors
+MA0077.2,High-mobility group (HMG) domain factors
+MA0746.3,C2H2 zinc finger factors
+MA1965.2,C2H2 zinc finger factors
+MA0747.2,C2H2 zinc finger factors
+MA1564.2,C2H2 zinc finger factors
+MA0080.7,Tryptophan cluster factors
+MA0081.3,Tryptophan cluster factors
+MA0687.2,Tryptophan cluster factors
+MA0829.3,Basic helix-loop-helix factors (bHLH)
+MA0084.2,High-mobility group (HMG) domain factors
+MA0802.2,T-Box factors
+MA1565.2,T-Box factors
+MA0804.2,T-Box factors
+MA0688.2,T-Box factors
+MA1567.3,T-Box factors
+MA0521.3,Basic helix-loop-helix factors (bHLH)
+MA1648.2,Basic helix-loop-helix factors (bHLH)
+MA0832.2,Basic helix-loop-helix factors (bHLH)
+MA1568.2,Basic helix-loop-helix factors (bHLH)
+MA0830.3,Basic helix-loop-helix factors (bHLH)
+MA0769.3,High-mobility group (HMG) domain factors
+MA0523.2,High-mobility group (HMG) domain factors
+MA0632.3,Basic helix-loop-helix factors (bHLH)
+MA1122.2,Fork head/winged helix factors
+MA0692.2,Basic helix-loop-helix factors (bHLH)
+MA0871.3,Basic helix-loop-helix factors (bHLH)
+MA1969.2,Nuclear receptors with C4 zinc fingers
+MA1574.2,Nuclear receptors with C4 zinc fingers
+MA1575.2,Nuclear receptors with C4 zinc fingers
+MA1576.2,Nuclear receptors with C4 zinc fingers
+MA1577.2,Homeo domain factors
+MA1970.2,Other C4 zinc finger-type factors
+MA1123.3,Basic helix-loop-helix factors (bHLH)
+MA0633.3,Basic helix-loop-helix factors (bHLH)
+MA0721.2,Homeo domain factors
+MA0093.4,Basic helix-loop-helix factors (bHLH)
+MA0526.5,Basic helix-loop-helix factors (bHLH)
+MA0722.2,Homeo domain factors
+MA0723.3,Homeo domain factors
+MA0693.4,Nuclear receptors with C4 zinc fingers
+MA1578.2,C2H2 zinc finger factors
+MA0725.2,Homeo domain factors
+MA0726.2,Homeo domain factors
+MA1627.2,C2H2 zinc finger factors
+MA0844.2,Basic leucine zipper factors (bZIP)
+MA0095.4,C2H2 zinc finger factors
+MA0748.3,C2H2 zinc finger factors
+MA0749.2,C2H2 zinc finger factors
+MA1971.2,C2H2 zinc finger factors
+MA1649.2,C2H2 zinc finger factors
+MA1650.2,C2H2 zinc finger factors
+MA0698.2,C2H2 zinc finger factors
+MA1579.2,C2H2 zinc finger factors
+MA0527.2,C2H2 zinc finger factors
+MA1581.2,C2H2 zinc finger factors
+MA0750.3,C2H2 zinc finger factors
+MA0694.2,C2H2 zinc finger factors
+MA0695.2,C2H2 zinc finger factors
+MA0103.4,Homeo domain factors
+MA2002.2,C2H2 zinc finger factors
+MA1651.2,C2H2 zinc finger factors
+MA1583.2,C2H2 zinc finger factors
+MA0146.3,C2H2 zinc finger factors
+MA1628.2,C2H2 zinc finger factors
+MA1629.2,C2H2 zinc finger factors
+MA0697.3,C2H2 zinc finger factors
+MA0751.2,C2H2 zinc finger factors
+MA1584.2,C2H2 zinc finger factors
+MA1709.2,C2H2 zinc finger factors
+MA1585.2,C2H2 zinc finger factors
+MA1973.2,C2H2 zinc finger factors
+MA1652.2,C2H2 zinc finger factors
+MA1589.2,C2H2 zinc finger factors
+MA1653.2,C2H2 zinc finger factors
+MA1654.2,C2H2 zinc finger factors
+MA1725.2,C2H2 zinc finger factors
+MA1974.2,C2H2 zinc finger factors
+MA1975.2,C2H2 zinc finger factors
+MA1710.2,C2H2 zinc finger factors
+MA0528.3,C2H2 zinc finger factors
+MA1592.2,C2H2 zinc finger factors
+MA1630.3,C2H2 zinc finger factors
+MA1154.2,C2H2 zinc finger factors
+MA1593.2,C2H2 zinc finger factors
+MA1976.2,C2H2 zinc finger factors
+MA1977.2,C2H2 zinc finger factors
+MA1726.2,C2H2 zinc finger factors
+MA1655.2,C2H2 zinc finger factors
+MA1711.2,C2H2 zinc finger factors
+MA1978.2,C2H2 zinc finger factors
+MA1125.2,C2H2 zinc finger factors
+MA0752.2,C2H2 zinc finger factors
+MA1979.2,C2H2 zinc finger factors
+MA1727.2,C2H2 zinc finger factors
+MA1656.2,C2H2 zinc finger factors
+MA1712.2,C2H2 zinc finger factors
+MA1981.2,C2H2 zinc finger factors
+MA1728.2,C2H2 zinc finger factors
+MA1982.2,C2H2 zinc finger factors
+MA1983.2,C2H2 zinc finger factors
+MA1713.2,C2H2 zinc finger factors
+MA1657.2,C2H2 zinc finger factors
+MA1984.2,C2H2 zinc finger factors
+MA1714.2,C2H2 zinc finger factors
+MA1729.2,C2H2 zinc finger factors
+MA1599.2,C2H2 zinc finger factors
+MA1600.2,C2H2 zinc finger factors
+MA1986.2,C2H2 zinc finger factors
+MA1987.2,C2H2 zinc finger factors
+MA1730.2,C2H2 zinc finger factors
+MA0753.3,C2H2 zinc finger factors
+MA1716.2,C2H2 zinc finger factors
+MA1731.2,C2H2 zinc finger factors
+MA1717.2,C2H2 zinc finger factors
+MA1719.2,C2H2 zinc finger factors
+MA1720.2,C2H2 zinc finger factors
+MA1721.2,C2H2 zinc finger factors
+MA1602.2,C2H2 zinc finger factors
+MA1722.2,C2H2 zinc finger factors
+MA1407.2,Basic leucine zipper factors (bZIP)
